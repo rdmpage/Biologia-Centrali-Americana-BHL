@@ -1,0 +1,1740 @@
+Christopher H. C. Lyal                            67                   Zoological Bibliography 2011 1(2)
+
+
+
+The dating of the Biologia Centrali Americana
+Christopher H. C. Lyal
+    COPYRIGHT: © 2011 Lyal. This is an open access article distributed under the terms of the
+    Creative Commons Attribution Licence, which permits unrestricted use, distribution, and
+    reproduction in any medium, provided the original author and source are credited.
+
+    ABSTRACT: The Zoological volumes of the Biologia Centrali Americana (BCA) were published in
+    217 numbered parts between 1879 and 1915. The Wrappers of these Parts provide evidence to
+    date all pages, including Plates, which have no other means of dating. Titles used for the
+    content in the Parts do not always agree with the titles given to the final volumes. Some pages
+    were published twice on different dates; in Coleoptera Vol. VI Part 1 this republication
+    included several different ranks applied to family group names, and one change of species
+    name spelling.
+
+    KEYWORDS: Biologia Centrali Americana, dating publication.
+
+INTRODUCTION
+
+     The Biologia Centrali Americana (BCA) is a vast compilation of the Zoology, Botany and
+Archaeology of Meso America, privately issued in Parts between 1879 and 1915 by Frederick
+DuCane Godman and Osbert Salvin. The final work comprises 63 volumes, and includes
+descriptions of 50,263 species, of which 19,263 were new to science (Anon, 1918). For most of
+the zoological groups at least there has been nothing equivalent published since. The Parts
+were sold on a subscription basis, and each contained pages of one or more final volumes;
+subscribers would build up the full set over time. This resulted in all of the volumes
+appearing over a considerable period, one page perhaps appearing months or years after the
+preceding page, even when both carried components of the same description. Moreover, the
+plates carrying illustrations of the species were issued in the same manner, but unlike the
+text pages do not carry dates. In a few cases the plates and the text carry different names for
+the same new species, and dating of the plates is consequently important to clarify priority
+and also, for species where the name is the same, the precise first date of publication.
+     Most copies of the BCA found in libraries now were bound without the Wrappers from
+the Parts. However, a set of Wrappers has been preserved in the libraries of the Natural
+History Museum, London. These list the contents of each Part (Figure 1), allowing for the
+first time a comprehensive review of the dates of all Zoological pages and Plates. Each
+Wrapper has a printed month and year. Some of the dates of publication have been
+published in the past for particular groups (Evenhuis, 1997 for the Parts containing Diptera
+signatures; Adler, 1987 for the Parts containing Reptilia and Batrachia signatures), but most
+have not been published after the original appearance. While each wrapper bears a printed
+date many also have the date when they were received (or perhaps in at least some cases
+accessed into the collection) by the Natural History Museum (then `British Museum (Natural
+History)') Library written or stamped on them. Evenhuis (1997) gave these dates for
+wrappers of parts containing Diptera held in the NHM; all are provided here in Table 1. In
+almost all cases where the date has been added to the wrapper it is of the month of issue or
+the following month, although in a few cases it is several months later.
+Christopher H. C. Lyal                                68                      Zoological Bibliography 2011 1(2)
+
+
+
+
+     Figure 1. The Wrapper of BCA Part LXXX, showing a selection of titles within the Part, each with
+     page numbers and plate numbers where these are included. The Lepidoptera Rhopalocera Plates,
+     although apparently included in Vol. II, were ultimately included in a separate volume for plates
+     alone, Vol. 3 (see text). The printed publication date is at the top right hand of the panel; the date
+     of accession to the British Museum (Natural History) can be seen above the panel on the top left.
+     It reads "20 NOV 1889"
+
+    According to the Introductory Volume to the BCA (Godman, 1915) there are 51
+Zoological volumes, (although there are 52 separate Title Pages ­ see below). The
+enumeration of these volumes used by Godman (1915) in his summary is followed here,
+although these volume numbers do not appear anywhere in the final publications. One of
+Godman's volumes, Rhynchota Homoptera Vol. II Parts 1 and 2, is often bound as two
+separate `books' and each Part has its own Title Page. Each of Godman's volumes treats one
+or more Orders, but in some cases (e.g. birds, beetles) more than one volume is required. In
+these cases there may be several Volumes (`Vols.' below), for example Vols. I IV of Aves,
+Vols. I VII of Coleoptera. Even this subdivision proved insufficient, and some Volumes
+themselves are subdivided into Parts, for example Coleoptera Vol. IV Parts 1 7. Each Part
+was expected to be bound separately (with the exception of Homoptera, as noted above).
+The inside of each Wrapper lists the volumes in preparation and completed at the time of
+issue.
+    As noted, the publication of the BCA did not follow a simple pattern of publication by a
+volume at a time. Instead, it was issued in a many `Parts' (distinct from the Parts of some of
+the Vols.), each containing text pages and/or plates from several different volumes, treating
+Christopher H. C. Lyal                               69                  Zoological Bibliography 2011 1(2)
+
+
+
+Table 1. The printed publication dates and dates of `receipt' by the library of the British Museum (Natural
+History) for the Parts of the BCA.
+
+                                    NHM Received                                         NHM Received
+  Issued Part     Printed Date                            Issued Part   Printed Date
+                                       Date                                                 Date
+  I                 Sep 1879                              CX              Aug 1893        25 Aug 1893
+  II                Nov 1879           3 Dec 1879         CXI             Sep 1893        30 Sep 1893
+  III               Feb 1880          21 Feb 1880         CXII            Oct 1893
+  IV                Apr 1880          29 Apr 1880         CXIII           Nov 1893        30 Nov 1893
+  V                 Jun 1880           1 Jul 1880         CXIV            Jan 1894         27 Jan 1894
+  VI                Aug 1880                              CXV             Feb 1894         1 Mar 1894
+  VII               Oct 1880                              CXVI            Apr 1894        29 Apr 1894
+  VIII              Dec 1880                              CXVII           Jul 1894         30 Jul 1894
+  IX                Feb 1881                              CXVIII          Oct 1894        31 Oct 1894
+  X                 Apr 1881                              CXIX            Nov 1894
+  XI                Jun 1881                              CXX             Jan 1895         29 Jan 1895
+  XII               Aug 1881                              CXXI            Mar 1895        30 Mar 1895
+  XIII              Oct 1881                              CXXII           May 1895        30 May 1895
+  XIV               Dec 1881                              CXXIII          Jul 1895         22 Jul 1895
+  XV                Feb 1882                              CXXIV           Aug 1895        31 Aug 1895
+  XVI               Apr 1882                              CXXV            Oct 1895        29 Oct 1895
+  XVII              Jun 1882                              CXXVI           Dec 1895
+  XVIII             Aug 1882                              CXXVII          Jan 1896         2 Apr 1896
+  XIX               Oct 1882                              CXXVIII         Mar 1896        31 Mar 1896
+  XX                Dec 1882                              CXXIX           May 1896        30 May 1896
+  XXI               Jan 1883                              CXXX            Jun 1896        30 Jun 1896
+  XXII              Mar 1883                              CXXXI           Oct 1896
+  XXIII             May 1883                              CXXXII          Dec 1896        23 Dec 1896
+  XXIV              Jul 1883                              CXXXIII         Feb 1897         2 Mar 1897
+  XXV               Sep 1883            Sep 1883          CXXXIV          Mar 1897        31 Mar 1897
+  XXVI              Nov 1883                              CXXXV           May 1897        29 May 1897
+  XXVII             Dec 1883                              CXXXVI          Aug 1897        27 Aug 1897
+  XXVIII            Feb 1884           5 Mar 1884         CXXXVII         Sep 1897        28 Sep 1897
+  XXIX              Apr 1884          24 Apr 1884         CXXXVIII        Nov 1897        17 Nov 1897
+  XXX               Jun 1884          20 Jun 1884         CXXXIX          Dec 1897
+  XXXI              Jul 1884           21 Jul 1884        CXL             Jan 1898
+  XXXII             Aug 1884          11 Sep 1884         CXLI            Apr 1898        7 May 1898
+  XXXIII            Oct 1884          18 Oct 1884         CXLII           Jun 1898        28 Jun 1898
+  XXXIV             Dec 1884          22 Dec1884          CXLIII          Aug 1898        30 Aug 1898
+  XXXV              Jan 1885           30 Jan 1885        CXLIV           Oct 1898        31 Oct 1898
+  XXXVI             Mar 1885           3 Apr 1885         CXLV            Dec 1898         9 Jan 1899
+  XXXVII            Apr 1885          30 Apr 1885         CXLVI           Feb 1899         1 Mar 1899
+  XXXVIII           May 1885           5 Jun 1885         CXLVII          Apr 1899        6 May 1899
+  XXXIX             Jul 1885           2 Sep 1885         CXLVIII         Jun 1899          5 Jul 1899
+  XL                Aug 1885           2 Sep 1885         CXLIX           Aug 1899
+  XLI               Oct 1885          30 Nov 1885         CL              Sep 1899         18 Oct 1899
+  XLII              Nov 1885          30 Nov 1885         CLI             Nov 1899          8 Dec 1899
+  XLIII             Dec 1885            1 Jan 1886        CLII            Dec 1899         30 Dec 1899
+  XLIV              Jan 1886           30 Jan 1886        CLIII           Feb 1900         28 Feb 1900
+  XLV               Feb 1886          26 Feb 1886         CLIV            Mar 1900
+  XLVI              Apr 1886          24 Apr 1886         CLV             Apr 1900         30 Apr 1900
+Christopher H. C. Lyal                           70                  Zoological Bibliography 2011 1(2)
+
+
+
+                                 NHM Received                                       NHM Received
+  Issued Part     Printed Date                        Issued Part   Printed Date
+                                    Date                                               Date
+  XLVII             May 1886                          CLVI           Jun 1900         28 Jun 1900
+  XLVIII            Jun 1886                          CLVII          Aug 1900          1 Sep 1900
+  XLIX              Jul 1886      3 Aug 1886          CLVIII         Oct 1900         27 Oct 1900
+  L                 Aug 1886                          CLIX           Nov 1900          1 Dec 1900
+  LI                Oct 1886      12 Oct1886          CLX            Dec 1900         31 Dec 1900
+  LII               Nov 1886                          CLXI           Jan 1901          9 Feb 1901
+  LIII              Dec 1886      11 Jan 1887         CLXII          Feb 1901          9 Mar 1901
+  LIV               Jan 1887       9 Feb 1887         CLXIII         Apr 1901         22 Apr 1901
+  LV                Feb 1887      1 Mar 1887          CLXIV          May 1901          29 May 01
+  LVI               Mar 1887      31 Mar 1887         CLXV           Jun 1901           1 Jul 1901
+  LVII              Apr 1887      2 May 1887          CLXVI          Sep 1901         19 Sep 1901
+  LVIII             May 1887      18 Jun 1887         CLXVII         Oct 1901         31 Oct 1901
+  LIX               Jun 1887       6 Jul 1887         CLXVIII        Nov 1901         28 Nov 1901
+  LX                Aug 1887       2 Sep 1887         CLXIX          Dec 1901         28 Dec 1901
+  LXI               Sep 1897                          CLXX           Jan 1902          29 Jan 1902
+  LXII              Oct 1887      28 Nov 1887         CLXXI          Mar 1902          1 Apr 1902
+  LXIII             Nov 1887                          CLXXII         May 1902         28 May 1902
+  LXIV              Dec 1887       9 Jan 1888         CLXXIII        Aug 1902         11 Sep 1902
+  LXV               Jan 1888      1 Feb 1888          CLXXIV         Oct 1902         27 Oct 1902
+  LXVI              Feb 1888      3 Mar 1888          CLXXV          Dec 1902         29 Dec 1902
+  LXVII             Apr 1888      4 May 1888          CLXXVI         Feb 1903         10 Mar 1903
+  LXVIII            Jun 1888      5 Jun 1888          CLXXVII        Apr 1903         30 Apr 1903
+  LXIX              Aug 1888                          CLXXVIII       May 1903         30 May 1903
+  LXX               Oct 1888      10 Nov 1888         CLXXIX         Aug 1903         16 Sep 1903
+  LXXI              Nov 1888      30 Nov 1888         CLXXX          Nov 1903         30 Nov 1903
+  LXXII             Dec 1888        4 Jan 1889        CLXXXI         Jan 1904          3 Feb 1904
+  LXXIII            Feb 1889      14 Feb 1889         CLXXXII        Apr 1904         14 May 1904
+  LXXIV             Mar 1889      27 Mar 1889         CLXXXIII       Jun 1904         30 Jun 1904
+  LXXV              Apr 1889      1 May 1889          CLXXXIV        Sep 1904          9 Nov 1904
+  LXXVI             May 1889      31 May 1889         CLXXXV         Nov 1904         29 Nov 1904
+  LXXVII            Jul 1889       1 Aug 1889         CLXXXVI        Jan 1905          31 Jan 1905
+  LXXVIII           Aug 1889                          CLXXXVII       Mar 1905         27 Apr 1905
+  LXXIX             Oct 1889      10 Oct 1889         CLXXXVIII      Jun 1905         30 Jun 1905
+  LXXX              Nov 1889      20 Nov 1889         CLXXXIX        Oct 1905         21 Nov 1905
+  LXXXI             Dec 1889        7 Jan 1890        CXC            Jan 1906          2 Feb 1906
+  LXXXII            Jan 1890       24 Jan 1890        CXCI           Apr 1906         14 Apr 1906
+  LXXXIII           Feb 1890       5 Mar 1890         CXCII          Aug 1906         11 Sep 1906
+  LXXXIV            Mar 1890       9 Apr 1890         CXCIII         Oct 1906         20 Nov 1906
+  LXXXV             May 1890      22 May 1890         CXCIV          Dec 1906          11 Jan 1907
+  LXXXVI            Jun 1890      28 Jun 1890         CXCV           Feb 1907          5 Mar 1907
+  LXXXVII           Aug 1890       8 Sep 1890         CXCVI          May 1907
+  LXXXVIII          Oct 1880       3 Nov 1890         CXCVII         Jul 1907
+  LXXXIX            Nov 1890       9 Dec 1890         CXCVIII        Nov 1907         31 Dec 1907
+  XC                Dec 1890       10 Jan 1891        CXCIX          Feb 1908
+  XCI               Feb 1891       5 Mar 1891         CC             May 1908         23 Jun 1908
+  XCII              Apr 1891        4 Jul 1891        CCI            Sep 1908         13 Oct 1908
+  XCIII             May 1891       6 Jun 1891         CCII           Nov 1908         5 Dec 1908
+  XCIV              Jul 1891       31 Jul 1891        CCIII          Feb 1909         6 Mar 1909
+  XCV               Sep 1891      26 Sep 1891         CCIV           Apr 1909         8 May 1909
+Christopher H. C. Lyal                           71                  Zoological Bibliography 2011 1(2)
+
+
+
+                                 NHM Received                                       NHM Received
+  Issued Part     Printed Date                        Issued Part   Printed Date
+                                    Date                                               Date
+  XCVI              Oct 1891       5 Nov 1891         CCV            Oct 1909          4 Nov 1909
+  XCVII             Nov 1891       4 Dec 1891         CCVI           Dec 1909           8 Jan 1910
+  XCVIII            Dec 1891        4 Jan 1892        CCVII          Apr 1910         3 May 1910
+  XCIX              Feb 1892       5 Mar 1892         CCVIII         Oct 1910          1 Nov 1910
+  C                 Mar 1892      11 Apr 1892         CCIX           May 1911         20 May 1911
+  CI                Apr 1892       4 Jun 1892         CCX            Oct 1911         21 Oct 1911
+  CII               May 1892       4 Jun 1892         CCXI.A         Dec 1911         19 Dec 1911
+  CIII              Jul 1892       30 Jul 1892        CCXI.B         May 1912          4 Jun 1912
+  CIV               Sep 1892       5 Nov 1892         CCXII.A        Feb 1913         18 Feb 1913
+  CV                Nov 1892       1 Dec 1892         CCXII.B        Apr 1914         2 May 1914
+  CVI               Jan 1893       5 Feb 1893         CCXIII         Nov 1914         24 Nov 1914
+  CVII              Mar 1893      29 Mar 1893         CCXIV          Jan 1915          2 Feb 1915
+  CVIII             Apr 1893      10 May 1893         CCXV           Jun 1915         28 Jun 1915
+  CIX               May 1893        3 Jul 1893
+
+
+
+different groups. The zoological content of the BCA was published in 217 Parts numbered I
+CCXV; although in many summaries it is written that it appeared in 215 Parts, CCXI and
+CCXII were each subdivided into `A' and `B', published separately on different dates.
+     The pages of text were published in Signatures of 8 pages, to facilitate later binding.
+Each Signature carries at the bottom left of the first page the abbreviation of the volume title
+(e.g. `BIOL. CENTR. AMER., Zool, Aves, Vol. 1') followed by the month and year of
+publication (e.g. `Sept. 1879.'). Following this on the bottom right of the page is an indication
+of the number of the Signature in the volume (a number, letter or letters). Because text was
+published only in complete Signatures the publishers would fill the maximum number of
+Signatures for the contribution of any one author at any one time and any text remaining
+they would hold back until there was enough additional material from the author or co
+author to complete another one or more Signatures. Thus a taxon description might break
+part way, being completed months or even years later. On occasion an author might
+complete his contribution near the end of a Signature and before a co author had prepared
+his contribution. In these cases a page may be re issued as a cancel at a later date, the earlier
+blank part being filled with the new contribution. The cases are discussed below under the
+relevant volume. In one case, Coleoptera Vol. VI Part 1, 8 pages were cancelled in April 1892;
+the cancels did contain differences from the cancellands (original publication) and are
+discussed below under the volume.
+     Unlike the text pages, plates were issued as single pages not signatures. Some were
+issued with the text, others separately. In one case (Mammalia) they were not issued in
+sequence. In several cases (Aves Vols. I IV, Coleoptera Vol. VI Parts I and Part I Supplement,
+Lepidoptera Rhopalocera Vols. I and II, Lepidoptera Heterocera Vols. I III) the plates were
+issued sequentially with the intention that they be bound together, even though the
+Wrappers may have indicated they lie within one of the other volumes.
+     The names and dates on the Plates and the corresponding text have not been checked for
+agreement or priority; this is perhaps something for taxon specialists to do. That they are not
+always in agreement is indicated by the case of the weevil Attelabus sallei Jekel. In the text
+(Coleoptera Vol. 4 Part 3, p. 11) the species is given as a synonym of Attelabus ater Olivier
+and not discussed further, whilst in Tab. 1, fig. 8, it is named as Attelabus ater var sallaei.
+Christopher H. C. Lyal                          72                       Zoological Bibliography 2011 1(2)
+
+
+
+    The authorship of the volumes is given below. As will be seen, in some cases different
+authors were responsible for different parts of a single volume. There are also cases where
+other authors are responsible for individual species, although these have not been identified
+below. An example is Dacnis viguieri, described on p. 246 of Aves Volume 1. In this case the
+species is explicitly attributed to Oustalet, and a description by him is provided in quotation
+marks.
+    Below I provide the dates for the pages and plates of each volume as Godman & Salvin
+anticipated it be bound, using their numeration. The Part number is given in capitalised
+Roman numerals, as it is on the original Wrapper, followed by the pages, plates and date of
+publication as given on the wrapper. Further comments are given where relevant.
+
+VOLUMES OF THE BIOLOGIA CENTRALI AMERICANA
+
+Volume 1. Introductory Volume. Godman, F. D., 1915, pp. i vii + 1 149; pls. i ii; maps i viii.
+Published in two parts, as follows: CCXIV (pp. 1 80, maps i iv; Jan 1915); CCXV (pp. 81 149;
+i viii: Title page, Dedication, Contents, Corrigendum, Preface; maps v viii; June 1915).
+
+Volume 2. Mammalia. Alston, E. R., 1879 1882, pp. i xx + 1 220, pls. i xxii. Published in 10
+Parts, as set out in Table 2. Pages 203 212 comprise a Supplement compiled from Alston's
+notes with additional comments by M.R. Oldfield Thomas. Pages i xx comprise the Title
+page, Introduction and List of plates.
+
+                           Table 2. Parts containing Mammalia.
+
+                             Part   Pages        Plates           Date
+                             I      1 32      i ii              Sept 1879
+                             II     33 56     iii iv            Nov 1879
+                             III    57 88     v, vi             Feb 1880
+                             IV     89 104    vii, viii         Apr 1880
+                             V      105 136   xi xiii           Jun 1880
+                             VI     137 152   x, xiv xvi        Aug 1880
+                             VII    153 176   ix, xvii, xviii   Oct 1880
+                             VIII   177 200   xix xxii          Dec 1880
+                             XIII   201 220                     Oct 1881
+                             XX     i xx                        Dec 1882
+
+Volume 3. Aves. Vol. I. Salvin, O. & Godman, F. D., 1879 1904, pp. i xliv + 1 512. Published in
+26 parts, as set out in Table 3. Part LVII included a temporary Title page. Pages i xliv
+comprised the Title page, contents, introduction, List of plates and Errata et Corrigenda.
+Christopher H. C. Lyal                                73                       Zoological Bibliography 2011 1(2)
+
+
+
+                    Table 3. Parts containing Aves Volume I.
+
+                         Part   Pages       Date           Part   Pages            Date
+                     I          1 32      Sept 1879   XVII        273 312        Dec 1883
+                     II         33 56     Nov 1879    XVIII       313 328        Feb 1884
+                     III        57 80     Feb 1880    XXXIV       329 344        Dec 1884
+                     IV         81 104    Apr 1880    XLIII       345 360        Dec 1885
+                     VI         105 128   Aug 1880    XLVI        361 368        Apr 1886
+                     IX         129 152   Feb 1881    XLVIII      369 392        Jun 1886
+                     XII        153 168   Aug 1881    L           393 408        Aug 1886
+                     XIII       169 184   Oct 1881    LI          409 416        Oct 1886
+                     XIV        185 200   Dec 1881    LII         417 440        Nov 1886
+                     XV         201 208   Feb 1882    LIII        441 448        Dec 1886
+                     XXII       209 224   Mar 1883    LV          449 456        Feb 1887
+                     XXIII      225 240   May 1883    LVII        457 512        Apr 1887
+                     XXVI       241 272   Nov 1883    CLXXXV      i xliv         Nov 1904
+
+Volume 4. Aves. Vol. II. Salvin, O. & Godman, F. D., 1888 1904, pp. i iv + 1 598. Published in
+28 parts, as set out in Table 4. Part CXXXVI included the Temporary Title page; Part
+CLXXXV comprised the Title page, and Errata et Corrigenda.
+
+                    Table 4. Parts containing Aves Volume II.
+
+                         Part    Pages      Date           Part   Pages            Date
+                     LXXII      1 40      Dec 1888     CXVIII     377    384     Oct 1894
+                     LXXIII     41 80     Feb 1889     CXIX       385    400     Nov 1894
+                     LXXIV      81 104    Mar 1889     CXX        401    424     Jan 1895
+                     XC         105 128   Dec 1890     CXXI       425    440     Mar 1895
+                     XCI        129 144   Feb 1891     CXXII      441    456     May 1895
+                     XCIV       145 160   Jul 1891     CXXIII     457    472     Jul 1895
+                     XCV        161 192   Sep 1891     CXXV       473    480     Oct 1895
+                     XCIX       193 224   Feb 1892     CXXVII     481    504     Jan 1896
+                     C          225 248   Mar 1892     CXXVIII    505    520     Mar 1896
+                     CII        249 280   May 1892     CXXX       521    544     Jun 1896
+                     CIII       281 328   Jul 1892     CXXXII     545    560     Dec 1896
+                     CIV        329 360   Sep 1892     CXXXIII    561    598     Feb 1897
+                     CV         361 368   Nov 1892     CXXXVI     [i]            Aug 1897
+                     CVI        369 376   Jan 1893     CLXXXV     i iv           Nov 1904
+
+Volume 5. Aves. Vol. III. Salvin, O. & Godman, F. D., 1897 1904, pp. i iv + 1 510. Published in
+21 parts, as set out in Table 5. Part CLXXXV included the Title page and Contents. Parts 138
+and 148 (pp. 1 56) were published under both authors' names; succeeding parts, from p. 57,
+were published with Godman's name only on the Wrapper.
+Christopher H. C. Lyal                                       74                         Zoological Bibliography 2011 1(2)
+
+
+
+                  Table 5. Parts containing Aves Volume III.
+
+                         Part            Pages      Date            Part        Pages           Date
+                      CXXXVIII       1 40         Nov 1897        CLXXI        225    264    Mar 1902
+                      CXLVIII        41 56        Jun 1899        CLXXV        265    280    Dec 1902
+                      CLIX           57 72        Nov 1900        CLXXVI       281    320    Feb 1903
+                      CLX            73 88        Dec 1900        CLXXVII      321    360    Apr 1903
+                      CLXI           89 112       Jan 1901        CLXXVIII     361    392    May 1903
+                      CLXII          113 128      Feb 1901        CLXXX        393    424    Nov 1903
+                      CLXIII         129 144      Apr 1901        CLXXXI       425    432    Jan 1904
+                      CLXIV          145 152      May 1901        CLXXXII      433    496    Apr 1904
+                      CLXVII         153 184      Oct 1901        CLXXXIII     497    510    Jun 1904
+                      CLXIX          185 192      Dec 1901        CLXXXV       i iv          Nov 1904
+                      CLXX           193 224      Jan 1902
+
+Volume 6. Aves. Vol. IV (Plates). Salvin, O. & Godman, F. D., 1879 1904, pp. i vii, pls. i lxxix.
+Published in 43 parts, as in Table 6. Part CLXXXV contained pp. i vii: the Title page,
+Contents and List of Plates. Parts I CXXXVIII (plates i lxii) and CLXXXV were issued under
+the names of both authors, but Parts CLX CLXXII (pls. lxiii lxxix) under the name of
+Godman only, following Salvin's death in 1878.
+
+            Table 6. Parts containing Aves Volume III.
+
+               Part             Plates           Date         Part                Plates               Date
+             I           i iii               Sept 1879     XC              xli xliii                Dec 1890
+             II          iv                  Nov 1879      XCIV            xliv, xlv                Jul 1891
+             III         v                   Feb 1880      XCV             xlvi xlviii              Sep 1891
+             IV          vi vii              Apr 1880      XCIX            xlix li                  Feb 1892
+             VI          viii                Aug 1880      C               lii, liii                Mar 1892
+             IX          ix, x               Feb 1881      CII             liv, lv                  May 1892
+             XII         xi                  Aug 1881      CIV             liv, [liv]A, lvi, lvii   Sep 1892
+             XIV         xii                 Dec 1881      CXIX            lviii, lviiiA, lviiiB    Nov 1894
+             XV          xiii                Feb 1882      CXX             lix, lixA, lx            Jan 1895
+             XXII        xiv                 Mar 1883      CXXXVIII        lxi, lxii                Nov 1897
+             XXIII       xv                  May 1883      CLX             lxiii                    Dec 1900
+             XXVI        xva, xvi, xvii      Nov 1883      CLXI            lxiv, lxv                Jan 1901
+             XXVII       xviii xxi           Dec 1883      CLXII           lxvi                     Feb 1901
+             XXVIII      xxii, xxiii         Feb 1884      CLXXI           lxii lxix                Mar 1902
+             XXXIV       xxiv                Dec 1884      CLXXII          lxx                      May 1902
+             XLVI        xxv xxvii           Apr 1886      CLXXV           lxxi                     Dec 1902
+             XLVIII      xxviii              Jun 1886      CLXXVI          lxxii, lxxiii            Feb 1903
+             L           xxix, xxx           Aug 1886      CLXXVII         lxxiv, lxxv              Apr 1903
+             LII         xxxi, xxxii         Nov 1886      CLXXVIII        lxxvi, lxxvii            May 1903
+             LVII        xxxiii xxxv         Apr 1887      CLXXXII         lxxviii, lxxix           Apr 1904
+             LXXII       xxxvi               Dec 1888      CLXXXV          pp. i vii                Nov 1904
+             LXXIII      xxxvii xl           Feb 1889
+
+Volume 7. Reptilia and Batrachia. Günther, A. C. L. G., 1885 1902, pp. i xx + 1 326; pls. i lxxvi.
+Published in 35 parts, as set out in Table 7. Part CLXXIII contained pp. i xx: the Title page,
+Contents, Introduction and List of plates. The Wrapper of Part CLIV is missing, but the
+contents (plates lxii and lxiii) can be inferred to have been published in this Part. Parts XXX
+Christopher H. C. Lyal                                      75                             Zoological Bibliography 2011 1(2)
+
+
+
+XVII to CXXV (pp. 1 196) were published under the title `Reptilia', Parts CLIII CLXXIII (pp.
+197 308) were published under the title `Batrachia' and Parts CLXXII and CLXXIII (pp. i xx,
+309 326) under the title `Reptilia and Batrachia'. Page 196 was not listed on any Wrapper,
+and in the bound volumes contains no text; it lies between the treatments of the Reptilia and
+Batrachia.
+
+         Table 7. Parts containing Reptilia and Batrachia.
+
+            Part      Pages          Plates          Date          Part        Pages          Plates      Date
+          XXXVII     1 16         i xv            Apr 1885        CXXIII      177    184 liii, liv, lv   Jul 1895
+          XXXVIII    17 24        xvi xviii       May 1885        CXXIV       185    192 lvi, lvii       Aug 1895
+          XL         25 32        xix xxi         Aug 1885        CXXV        193    195 lviii, lix      Oct 1895
+          XLI        33 56        xxii xxv        Oct 1885        CLIII       197    212 lx, lxi         Feb 1900
+          LXXXII                  xxvi xxviii     Jan 1890        CLIV                   lxii, lxiii     Mar 1900
+          LXXXIII    57 80        xxix, xxx       Feb 1890        CLV         213    220 lxiv lxvi       Apr 1900
+          CVIII      81 88        xxxi, xxxii     Apr 1893        CLVI        221    228                 Jun 1900
+          CIX        89 96        xxxiii          May 1893        CLVII       229    236 lxvii lxviii    Aug 1900
+          CX         97 104       xxxiv, xxxv     Aug 1893        CLXII       237    252                 Feb 1901
+          CXII       105 112      xxxvi, xxxvii   Oct 1893        CLXIII                 lxix            Apr 1901
+          CXIII                   xxxviii xl      Nov 1893        CLXIV       253    260 lxx             May 1901
+          CXV        113 128      xli             Feb 1894        CLXV        261    268 lxxi lxxxiii    Jun 1901
+          CXVI                    xlii, xliii     Apr 1894        CLXVI       269    292 lxxxiv          Sep 1901
+          CXVII      129   136    xliv, xlv       Jul 1894        CLXIX       293    300                 Dec 1901
+          CXVIII     137   144    xlvi xlviii     Oct 1894        CLXX        301    308 lxxv, lxxvi     Jan 1902
+          CXX        145   160    xlix            Jan 1895        CLXXII      309    326                 May 1902
+          CXXI       161   168    l               Mar 1895        CLXXIII     i xx                       Aug 1902
+          CXXII      169   176    li, lii         May 1895
+
+Volume 8. Pisces. Tate Regan, C., 1906 1908, pp. i xxxiii + 1 203, pls. i xxvi. Published in 6
+Parts, as set out in Table 8. Part CXCIX included pp. i xxxiii: the Title page, Contents,
+Introduction, List of Plates and maps i and ii.
+
+                              Table 8. Parts containing Pisces.
+
+                                  Part             Pages             Plates           Date
+                                 CXCIII       1 32                  i iv         Oct 1906
+                                 CXCV         33 56                 v viii       Feb 1907
+                                 CXCVI        57 88                 ix xii       May 1907
+                                 CXCVII       89 128                xiii xvi     Jul 1907
+                                 CXCVIII      129 160               xvii xx      Nov 1907
+                                 CXCIX        161 203; i xxxiii     xxi xxvi     Feb 1908
+
+Volume 9. Land and Freshwater Mollusca. von Martens, E., 1890 1901, pp. i xxviii + 1 706, pls.
+i xliv. Published in 38 parts, as set out in Table 9. Part CLXIV included pp. i xxviii: the Title
+page, Contents, Introduction and Errata et Corrigenda. The individual parts were published
+under the title `Terrestrial and Fluviatile Mollusca', and this was the title also given on the
+list of Subjects on the Wrappers. However, the title used here is the one which eventually
+was used on the title page of the work. The Wrapper to Part CLIV is missing from the
+collection, and the page and plate numbers given in Table 9 are inferred from the differences
+Christopher H. C. Lyal                                 76                      Zoological Bibliography 2011 1(2)
+
+
+
+between the listing on Wrappers CLIII and CLV and, for the text, checking the volume to
+hand.
+
+     Table 9. Parts containing Land and Freshwater Mollusca.
+
+          Part      Pages          Plates    Date       Part           Pages          Plates       Date
+       LXXXV       1 24                     May        CXLIV    321   368             xix, xx    Oct 1898
+       LXXXVI      25 40                    Jun 1890   CXLVI    369   384             xxi        Feb 1899
+       LXXXVIII                i            Oct 1890   CXLVII   385   400                        Apr 1899
+       XCII        41 80                    Apr 1891   CXLVIX   401   424             xxii       Aug 1899
+       XCIII       81 96       ii, iii      May        CL       425   448             xxiii,     Sep 1899
+       XCIV                    iv, v        Jul 1891   CLI      449   472             xxv        Nov 1899
+       XCIX        97 120                   Feb 1892   CLII                           xxviii     Dec 1899
+       C           121 152     vi           Mar 1892   CLIII    473   480                        Feb 1900
+       CI          153 176     vii ix       Apr 1892   CLIV     481   496             xxix       Mar 1900
+       CIX         177 184                  May        CLV      497   520             xxxiii     Apr 1900
+       CX          185 216     x            Aug        CLVI     521   528                        Jun 1900
+       CXI         217 240     xi           Sep 1893   CLVII    529   536             xxxvi,     Aug 1900
+       CXII        241 248     xii          Oct 1893   CLVIII   537   568             xxxviii,   Oct 1900
+       CXIV                    xiii         Jan 1894   CLIX     569   600             xl, xli    Nov 1900
+       CXV                     xiv, xv      Feb 1894   CLX      601   608                        Dec 1900
+       CXXXVIII    249   272                Nov        CLXI     609   632             xlii,      Jan 1901
+       CXXXIX      273   288   xvi          Dec 1897   CLXII    633   648             xliv       Feb 1901
+       CXLI        289   312                Apr 1898   CLXIII   649   674                        Apr 1901
+       CXLII       313   320   xvii,        Jun 1898   CLXIV    675   706, i xxviii              May 1901
+
+Volume 10. Arachnida Araneida. Pickard Cambridge, O., 1889 1902, pp. i xv + 1 317, pls. i
+xxxix. Published in 53 Parts, as set out in Table 10. Part CLXXIII contained pp. i xv, which
+comprised the Title page, Contents, Introduction and a Systematic List of Spiders. Some
+parts were issued under the author's full name "Pickard Cambridge, O." whilst other were
+issued under the name "Cambridge, O.P." In all cases the author is Rev. Octavius Pickard
+Cambridge.
+
+Volume 11. Arachnida Araneidea and Opiliones. Pickard Cambridge, F. O., 1897 1905, pp. i x +
+1 610, pls. i liv. Issued in 39 Parts, as set out in Table 11. Part CLXXXVI included pp. i x,
+which comprised the Title page, Contents, Introduction and Errata & Corrigenda. Some
+parts were issued under the author's full name "Pickard Cambridge, F.O." whilst other were
+issued under the name "Cambridge, F.O.P." In all cases the author is Frederick Octavius
+Pickard Cambridge (the nephew of Rev. O Pickard Cambridge, the author of the previous
+volume). The title given on the Wrappers of Parts CCCVI CLXXXIV is `Araneidea', that on
+Wrappers CLXXXV and CLXXXVI `Arachnida Araneidea and Opiliones', the title given to
+the whole work. The Wrapper to Part CLIV is missing from the collection, and the page
+numbers given in Table 11 are inferred from the differences between the listing on Wrappers
+CLIII and CLV and checking the dates in the printed volume to hand.
+Christopher H. C. Lyal                              77                        Zoological Bibliography 2011 1(2)
+
+
+
+   Table 10. Parts containing Arachnida Araneida.
+
+        Part       Pages     Plates      Date            Part         Pages          Plates       Date
+     LXXVII       1 24      i iii     Jul 1889      CXXX        185   192                      Jun 1896
+     LXXVIII      25 40               Aug 1889      CXXXI       193   208           xxi        Oct 1896
+     LXXX         41 48     iv        Nov 1889      CXXXII      209   224           xxii       Dec 1896
+     LXXXI        49 56     v         Dec 1889      CXXXIII     225   232           xxiii      Feb 1897
+     LXXXIII      57 64     vi        Feb 1890      CXXXIV                          xxiv,      Mar 1897
+     LXXXV                  vii       May 1890      CXXXVI                          xxvi,      Aug 1897
+     LXXXVIII               viii      Oct 1890      CXXXVII                         xxviii     Sep 1897
+     XC           65 72               Dec 1890      CXXXIX                          xxix       Dec 1897
+     XCII         73 80               Apr 1891      CXL         233   240                      Jan 1898
+     XCIII                  ix        May 1891      CXLI        241   248                      Apr 1898
+     XCV          81 88               Sep 1891      CXLII       249   256                      Jun 1898
+     XCVI                   x         Oct 1891      CXLIII      257   280                      Aug 1898
+     XCIX                   xi        Feb 1892      CXLIV                           xxx        Oct 1898
+     CI           89 96               Apr 1892      CXLV        281 288                        Dec 1898
+     CII          97 104              May 1892      CXLVI       289 296                        Feb 1899
+     CIV                    xii       Sep 1892      CXLVII      297 304             xxxi       Apr 1899
+     CV                     xiii      Nov 1892      CXLVIII                         xxxii      Jun 1899
+     CXI          105 120             Sep 1893      CLII                            xxxiii     Dec 1899
+     CXIV         121 136             Jan 1894      CLVIII                          xxxiv      Oct 1900
+     CXVI                   xiv       Apr 1894      CLIX                            xxxv       Nov 1900
+     CXVII        137 144   xv        Jul 1894      CLX                             xxxvi      Dec 1900
+     CXIX                   xvi       Nov 1894      CLXVIII                         xxxvii     Nov 1901
+     CXXI                   xvii      Mar 1895      CLXIX                           xxxviii    Dec 1901
+     CXXII                  xviii     May 1895      CLXX                            xxxix      Jan 1902
+     CXXIV        145 160             Aug 1895      CLXXII      305 308                        May 1902
+     CXXVIII      161 168   xix       Mar 1896      CLXXIII     309 317, i xv                  Aug 1902
+     CXXIX        169 184   xx        May 1896
+
+Volume 12. Arachnida Scorpiones, Pedipalpi, Solifugae. Pocock, R. I., 1902, pp. i + 1 71, pls. i xii.
+Published in 4 Parts, as set out in table 11. Part CLXXV included the unnumbered Title page.
+The text in Parts CLXXII and CLXXIII was published under the title `Arachnida Scorpiones',
+that in Parts CLXXIV and CLXXV under `Arachnida Scorpiones, Pedipalpi, Solifugae', the
+title of the whole work.
+
+Volume 13. Arachnida Aranaeida. Stoll, O., 1886 1893, pp. i xxi + 1 55, pls. i xxi. Published in
+10 Parts, as set out in Table 12. Part CVI included pp. i xxi, comprising the Title page,
+Introduction and Explanation of the Plates.
+
+Volume 14. Chilopoda and Diplopoda. Pocock, R. I., 1895 1910, pp. i + 1 217, pls. i xv. Published
+in 9 Parts, as set out in Table 14. Part CCVII included the unnumbered Title page. While the
+whole volume was published under the title `Chilopoda and Diplopoda', the text in Parts
+CXXVI CXXVII was published under the title `Chilopoda', and in Parts CLXXX CCVII under
+the title `Diplopoda'.
+
+Volume 15. Coleoptera Vol. I Part 1. Bates, H. W., 1881 1884. pp. i x + 1 316, pls. i xiii.
+Published in 14 Parts, as set out in Table 15. Part XXXIV included pp. i x, comprising the
+Title page, Introduction and List of Plates.
+Christopher H. C. Lyal                                            78                            Zoological Bibliography 2011 1(2)
+
+
+
+  Table 11. Parts containing Arachnida Araneida and Opiliones.
+
+      Part       Pages        Plates               Date            Part              Pages              Plates         Date
+    CXXXVI      18                           Aug 1897         CLXVI                249 280          xxii, xxiii       Sep 1901
+    CXXXVII     9 40        i, ii            Sep 1897         CLXVII                                xxiv, xxv         Oct 1901
+    CXLVII      41 48       iii              Apr 1899         CLXVIII              281   296        xxvi xxviii       Nov 1901
+    CXLVIII     49 56                        Jun 1899         CLXIX                297   312        xxix, xxx         Dec 1901
+    CXLVIX                  iv               Aug 1899         CLXX                 313   336        xxxi              Jan 1902
+    CL          57 64                        Sep 1899         CLXXI                337   360        xxxii, xxxiii     Mar 1902
+    CLI         65 80       v                Nov 1899         CLXXII               361   376        xxxiv, xxxv       May 1902
+    CLII        81 88       vi               Dec 1899         CLXXIII              377   392        xxxvi             Aug 1902
+    CLIII       89 104      vii              Feb 1900         CLXXIV               393   408        xxxvii, xxxviii   Oct 1902
+    CLIV        105 120                      Mar 1900         CLXXV                409   424        xxxix             Dec 1902
+    CLV         121 128     viii             Apr 1900         CLXXVI               425   440        xl, xli           Feb 1903
+    CLVI        129 160     ix               Jun 1900         CLXXVII              441   448        xlii              Apr 1903
+    CLVII                   x                Aug 1900         CLXXX                449   464        lxiii, lxiv       Nov 1903
+    CLIX        161   176   xi, xii          Nov 1900         CLXXXI               465   496        xlv xlvii         Jan 1904
+    CLX         177   192   xiii             Dec 1900         CLXXXII              497   512        xlviii, xlix      Apr 1904
+    CLXI        193   208   xiv              Jan 1901         CLXXXIII             513   536        l                 Jun 1904
+    CLXII       209   216   xv, xvi          Feb 1901         CLXXXIV              537   544        li                Sep 1904
+    CLXIII      217   232   xvii, xviii      Apr 1901         CLXXXV               545   560        lii               Nov 1904
+    CLXIV       233   240   xix, xx          May 1901         CLXXXVI              561   610; i x   liii, liv         Jan 1805
+    CLXV        241   248   xxi              Jun 1901
+
+                                      Table 12. Parts containing Arachnida
+                                      Scorpiones, Pedipalpi, Solifugae.
+
+                                            Part          Pages    Plates            Date
+                                        CLXXII            1 16     i, ii           May 1902
+                                        CLXXIII           17 32    iii vi          Aug 1902
+                                        CLXXIV            33 71    vii ix          Oct 1902
+                                        CLXXV             [i]      x xii           Dec 1902
+
+                              Table 13. Parts containing Arachnida Aranaeida.
+
+                                     Part            Pages              Plates             Date
+                                    LIII       18                      i iii             Dec 1886
+                                    LVI                                v vi              Mar 1887
+                                    LIX        9 16                    vii ix            Jun 1887
+                                    LXI                                x, xi             Sep 1897
+                                    LXXXIV     17 24                   xii xiv           Mar 1890
+                                    LXXXVI                             xv                Jun 1890
+                                    XCV        25 32                                     Sep 1891
+                                    XCVI                               xvi xviii         Oct 1891
+                                    CV         33 40                   xix               Nov 1892
+                                    CVI        41 55, i xxi            xx, xxi           Jan 1893
+
+Volume 16. Coleoptera Vol. I Part 2. Sharp, D., 1882 1887, pp. i xvi + 1 824, pls. i xix.
+Published in 30 Parts, as set out in Table 16. Part LXIII included pp. i xvi, comprising the
+Title page, Contents, Introduction, List of Plates and Errata.
+Christopher H. C. Lyal                              79                        Zoological Bibliography 2011 1(2)
+
+
+
+Volume 17. Coleoptera Vol. II Part 1. Sharp, D., Matthews, A. & Lewis, G., 1887 1905, pp. i xii
++ 1 717, pls. i xix. Published in 41 Parts, as set out in Table 17. Part CLXXXVII included pp. i
+xii, comprising the Title page, Contents, List of Plates, and Introduction. Not all of the
+authors were listed on the Wrappers of each Part where the text was provided. Sharp is
+given as author of text in Parts LV LVII and LXX CLXXII, Sharp & Matthews in Part LXII,
+Matthews in Parts LXIII LXVII, Matthews & Lewis in Part LXVIII, Lewis in Parts LXX and
+LXXII, Lewis & Sharp in Parts LXXII ­ LXXIV, although according to the text Sharp is the
+only actual author in Part LXXIII, and Sharp, D., Matthews, A. & Lewis, G in Part CLXXXVII
+(where Sharp is sole author for pp. 689 692). The Wrapper to Part CLIV is missing from the
+collection, and the page and plate numbers given in Table 17 are inferred from the
+differences between the listing on Wrappers CLIII and CLV and, for the text, checking the
+volume to hand.
+
+                         Table 14. Parts containing Chilopoda and Diplopoda.
+
+                             Part          Pages         Plates        Date
+                          CXXVI         1 24             i, ii      Dec 1895
+                          CXXVII        25 40            iii        Jan 1896
+                          CLXXX         41 56            iv, v      Nov 1903
+                          CXCVIII       57 72            vi         Nov 1907
+                          CCI           73 88            vii        Sep 1908
+                          CCIV          89 104                      Apr 1909
+                          CCV           105 152          viii xi    Oct 1909
+                          CCVI          153 200          xii xv     Dec 1909
+                          CCVII         201 217, [i]                Apr 1910
+
+                          Table 15. Parts containing Coleoptera Vol. I Part 1.
+
+                              Part          Pages        Plates       Date
+                           XIII          1 16            i          Oct 1881
+                           XIV           17 40           ii         Dec 1881
+                           XV            41 72           iii        Feb 1882
+                           XVI           73 88                      Apr 1882
+                           XVII          89 112          iv         Jun 1882
+                           XVIII         113 136         v          Aug 1882
+                           XIX           137 152                    Oct 1882
+                           XXI           153 168         vi         Jan 1883
+                           XXII          169 216         vii        Mar 1883
+                           XXV           217 240         viii, ix   Sep 1883
+                           XXVII         241 256         x xii      Dec 1883
+                           XXXI          257 296         xiii       Jul 1884
+                           XXXII         297 312                    Aug 1884
+                           XXXIV         313 316, i x               Dec 1884
+
+Volume 18. Coleoptera Vol. II, Part 2. Pectinicornia and Lamellicornia. Bates, H. W., 1886 1890,
+pp. i xii + 1 432, pls. i xxiv. Published in 22 Parts, as set out in Table 18. Part LXXXII
+contained pp. i xii, comprising the Title page, Introduction, Errata and List of Plates.
+
+Volume 19. Coleoptera Vol. III, Part 1. Serricornia. Waterhouse, C. O., Horn, G. H. and
+Champion, G. C., 1882 1897, pp. i xvi + 1 690, pls. i xvii. Published in 32 Parts, as set out in
+Christopher H. C. Lyal                                   80                        Zoological Bibliography 2011 1(2)
+
+
+
+Table 19. Part CXXXVI contained pp. i xvi, comprising the Title page, Contents,
+Introduction, List of Plates and Errata et Corrigenda. Not all of the authors were listed on the
+Wrappers of each Part where the text was provided. Waterhouse is given as author of text in
+Parts XV LXXXIII, Waterhouse and Horn in Part LXXXIX, Horn & Champion in Part CXVIII
+and Champion in Parts CXIX CXXXVI. Page 193 was first issued in December 1889 in Part
+LXXXI and then cancelled and replaced in Nov. 1890 (Part LXXXIX); it is likely that this was
+to allow the concluding part of Waterhouse's contribution, which occupied the top of the
+page, to appear in context with the rest of his work, and then, when Horn's contribution
+(which occupied the rest of the page) was ready the complete page was printed. The volume
+to hand has both cancel and cancelland, which for the contribution by Waterhouse are
+identical. The species Exaesthetus dasytoides Waterhouse, described on that page, should carry
+the date 1889 (not 1890 as sometimes given), and the generic name Exaesthetus Waterhouse
+1889, of which E. dasytoides is the type of by monotypy, is available from December 1889. A
+similar situation applies to page 257, which was first printed in 1890 in Part LXXXIX and
+again in 1894 in Part CXVIII; this is the last part of Horn's contribution, reprinted when
+Champion's contribution, which commenced on p 258, was ready for publication. The
+species Thylacosternus donatus Horn is the only new name on this page and should carry the
+date 1890.
+
+         Table 16. Parts containing Coleoptera Vol. I Part 2.
+
+             Part        Pages         Date     Part          Part         Pages        Date      Part
+           XVI           1 48      i          Apr 1882    XXXIX      473   504          xiii    Jul 1885
+           XIX           49 80                Oct 1882    XL         505   512                  Aug 1885
+           XX            81 144    ii iv      Dec 1882    XLI        513   536                  Oct 1885
+           XXIII         145 192              May 1883    XLVIII     537   552                  Jun 1886
+           XXIV          193 240   v, vi      Jul 1883    XLIX       553   576          xiv     Jul 1886
+           XXV           241 288              Sep 1883    L          577   608                  Aug 1886
+           XXVI          289 296              Nov 1883    LI         609   632          xv      Oct 1886
+           XXVII         297 312   vii        Dec 1883    LII        633   648          xvi     Nov 1886
+           XXVIII        313 344              Feb 1884    LIII       649   672                  Dec 1886
+           XXIX          345 376   viii, ix   Apr 1884    LIV        673   704          xvii    Jan 1887
+           XXX           377 392              Jun 1884    LV         705   736          xviii   Feb 1887
+           XXXV          393 416   x          Jan 1885    LVI        737   744          xix     Mar 1887
+           XXXVI         417 448   xi         Mar 1885    LXI        745   768                  Sep 1887
+           XXXVII        449 456              Apr 1885    LXII       679   800                  Oct 1887
+           XXXVIII       457 472   xii        May 1885    LXIII      801   824, i xvi           Nov 1887
+
+Volume 20. Coleoptera Vol. III Part 2. Malacodermata. Gorham, H. S., 1880 1886, pp. i xii + 1
+372, pls. i xiii. Published in 21 Parts, as set out in Table 20. Part XLVII included pp. i xii,
+comprising the Title page, Introduction, Errata et Corrigenda and List of Plates.
+
+Volume 21. Coleoptera Vol. IV. Part 1. Heteromera (part). Champion, G. C., 1884 1893, pp. i
+xxxiv + 1 572, pls. i xxiii. Published in 32 Parts, as set out in Table 21. Part CVII included pp.
+i xxxiv, comprising the Title page, Contents, Introduction, List of Plates and Errata et
+Corrigenda.
+Christopher H. C. Lyal                                 81                           Zoological Bibliography 2011 1(2)
+
+
+
+         Table 17. Parts containing Coleoptera Vol. II Part 1.
+
+          Part       Pages      Plates      Date            Part          Pages             Plates     Date
+        LV          1 16        i         Feb 1887     XCI             337 368                       Feb 1891
+        LVI         17 40                 Mar 1887     XCII            369 384                       Apr 1891
+        LVII        41 56       ii        Apr 1887     XCIV                                 xi       Jul 1891
+        LVIII       57 64                 May 1887     XCV             385 432                       Sep 1891
+        LXII        65 72                 Oct 1887     XCVI            433 440              xii      Oct 1891
+        LXIII       73 88                 Nov 1887     CI                                   xiii     Apr 1892
+        LXIV        89 96                 Dec 1887     CXVIII          441 464              xiv      Oct 1894
+        LXV         97 136      iii       Jan 1888     CXIX            465 488                       Nov 1894
+        LXVI        137 168     iv        Feb 1888     CXX             489 496                       Jan 1895
+        LXVII       169 176               Apr 1888     CXXXII                               xv       Dec 1896
+        LXVIII      177 208               Jun 1888     CXLVIII         497   520            xvi      Jun 1899
+        LXX         209 232     v         Oct 1888     CXLVIX          521   552                     Aug 1899
+        LXXI        233 240     vi        Nov 1888     CL              553   560            xvii     Sep 1899
+        LXXII       241 256               Dec 1888     CLIII           561   584                     Feb 1900
+        LXXIII      257 264               Feb 1889     CLIV            585   608            xviii    Mar 1900
+        LXXIV                   vii       Mar 1889     CLV             609   624                     Apr 1900
+        LXXVIII     265   280   viii      Aug 1889     CLXX            625   632                     Jan 1902
+        LXXIX       281   304   ix        Oct 1889     CLXXI           633   672            xix      Mar 1902
+        LXXXIII     305   312             Feb 1890     CLXXII          673   688                     May 1902
+        LXXXIV      313   336             Mar 1890     CLXXXVII        689   717, i xii              Mar 1905
+        LXXXVI                  x         Jun 1890
+
+        Table 18. Parts containing Coleoptera Vol. II Part 2.
+
+           Part      Pages      Plates     Date         Part          Pages               Plates      Date
+         XLVII      1 24        i         May 1886    LXVIII       217 248            xii, xiii      Jun 1888
+         LVIII      25 64       ii, iii   May 1887    LXIX         249 296            xiv, xv        Aug 1888
+         LIX        65 80       iv        Jun 1887    LXX          297 312            xvi            Oct 1888
+         LX         81 88       v         Aug 1887    LXXI                            xvii           Nov 1888
+         LXI        89 104      vi        Sep 1887    LXXII        313 336                           Dec 1888
+         LXII       105         vii       Oct 1887    LXXIII                          xviii          Feb 1889
+         LXIII      121                   Nov 1887    LXXIV        337 376            xix xxi        Mar 1889
+         LXIV       137         viii      Dec 1887    LXXV                            xxii, xxiii    Apr 1889
+         LXV        161         ix        Jan 1888    LXXIX        377 384                           Oct 1889
+         LXVI       177                   Feb 1888    LXXXI        385 416            xxiv           Dec 1889
+         LXVII      201         x, xi     Apr 1888    LXXXII       417 432, i xii                    Jan 1890
+
+Volume 22. Coleoptera Vol. IV. Part 2. Heteromera (part). Champion, G. C., 1889 1893, pp. i x +
+1 494, pls. i xxi. Published in 23 Parts, as set out in Table 22. Part CVIII included pp. i x,
+comprising the Title page, Table of Contents and List of Plates.
+
+Volume 23. Coleoptera Vol. IV. Part 3. Rhynchophora. Curculionidae. Attelabinae, Pterocolinae,
+Allocoryninae, Apioninae, Thecesterninae, Otiorhynchinae. Sharp, D. & Champion, G. C., 1889
+1911, pp. i vi + 1 354, pls. i xv. Published in 12 Parts, as set out in table 23. Part CCXI.A
+included pp. i vi, comprising the Title page, Table of Contents and Introduction. The text
+and plates in Parts LXXV XCVII were published under the name of Sharp alone, Part CCIX
+under Sharp & Champion (Sharp was responsible for pages 169 178, Champion pp. 178 240),
+and Parts CCX and CCXI.A under the name of Champion.
+Christopher H. C. Lyal                                  82                       Zoological Bibliography 2011 1(2)
+
+
+
+      Table 19. Parts containing Coleoptera Vol. III Part 1.
+
+          Part      Pages      Plates        Date        Part           Pages             Plates       Date
+        XV         1 16        i           Feb 1882    CXX        297   312           xi, xii        Jan 1895
+        XVIII      17 32       ii          Aug 1882    CXXI       313   336           xiii           Mar 1895
+        LXII       33 48       iii         Oct 1887    CXXII      337   360           xiv            May 1895
+        LXXIII     49 64       iv          Feb 1889    CXXIII     361   376           xv, xvi        Jul 1895
+        LXXIV      65 80                   Mar 1889    CXXV       377   400           xvii           Oct 1895
+        LXXV       81 104                  Apr 1889    CXXVI      401   440           xviii, xix     Dec 1895
+        LXXVI      105 112     v           May 1889    CXXVII     441   472           xx             Jan 1896
+        LXXVII     113 120     vi          Jul 1889    CXXVIII    473   496                          Mar 1896
+        LXXVIII    121 136                 Aug 1889    CXXIX      497   528           xxi, xxii      May 1896
+        LXXIX      137 144                 Oct 1889    CXXX       529   552           xxiii          Jun 1896
+        LXXX       145 168     vii, viii   Nov 1889    CXXXI      553   584           xxiv           Oct 1896
+        LXXXI      169 193                 Dec 1889    CXXXII                         xxv            Dec 1896
+        LXXXIII                ix          Feb 1890    CXXXIII    585   608           xxvi           Feb 1897
+        LXXXIX     193 257     x           Nov 1890    CXXXIV     609   624                          Mar 1897
+        CXVIII     257 264                 Oct 1894    CXXXV      625   656                          May 1897
+        CXIX       265 296                 Nov 1894    CXXXVI     657   690, i xvi    xxvii          Aug 1897
+
+         Table 20. Parts containing Coleoptera Vol. III Part 2.
+
+            Part     Pages     Plates       Date         Part        Pages           Plates         Date
+           VIII     1 24       i, ii       Dec 1880   XXI         169 192                          Jan 1883
+           IX       25 40      iii         Feb 1881   XXIV        193 224                          Jul 1883
+           X        41 64      iv          Apr 1881   XXV                            x             Sep 1883
+           XI       65 80      v           Jun 1881   XXXII       225   240          xi            Aug 1884
+           XII      81 88                  Aug 1881   XXXIII      241   272                        Oct 1884
+           XIII     89 104                 Oct 1881   XXXVI       273   288          xii           Mar 1885
+           XIV      105 112    vi          Dec 1881   XXXVII      289   304                        Apr 1885
+           XVI      113 128                Apr 1882   XXXVIII     305   312                        May 1885
+           XVII     129 152    vii         Jun 1882   XLVI        313   336                        Apr 1886
+           XVIII               viii        Aug 1882   XLVII       337   372, i xii   xiii          May 1886
+           XIX      153 168    ix          Oct 1882
+
+Volume 24. Coleoptera Vol. IV. Part 4. Rhynchophora. Curculionidae. Curculioninae (part).
+Champion, G. C., 1902 1906, pp. i viii + 1 750, pls. i xxxv. Published in 19 Parts, as set out in
+table 24. Part CXCI included pp. i viii, comprising the Title page, Table of Contents,
+Introduction and Errata et Corrigenda.
+
+Volume 25. Coleoptera Vol. IV. Part 5. Rhynchophora. Curculionidae. Curculioninae (continued).
+Champion, G. C., 1906 1909, pp. i viii + 1 513 pls. i xxiii. Published in 13 Parts, as set out in
+Table 25. Part CCIV includes pp. i viii, which comprise the Title page, Table of Contents,
+Introduction and Errata et Corrigenda.
+
+Volume 26. Coleoptera Vol. IV. Part 6. [Brenthidae, Scolytidae, Anthribidae] Sharp, D.,
+Blandford, W. F. H. & Jordan, K., 1895 1907, pp. i vi + 1 396 pls. i xiv. Published in 23 Parts,
+as set out in Table 26. Part CXCV included pp. i vi, which comprise the Title page, Table of
+Contents, Introduction and Errata et Corrigenda.
+Christopher H. C. Lyal                                           83                              Zoological Bibliography 2011 1(2)
+
+
+
+       Table 21. Parts containing Coleoptera Vol. IV Part 1.
+
+          Part      Pages       Plates            Date         Part                 Pages            Plates        Date
+         XXXI      1 24                          Jul 1884     LIX            273 296                             Jun 1887
+         XXXII     25 56        i                Aug 1884     LX             297 320                 xii         Aug 1887
+         XXXIII    57 72        ii               Oct 1884     LXI                                    xiii        Sep 1887
+         XXXIV     73 88        iii              Dec 1884     LXII           321   328                           Oct 1887
+         XXXV      89 96        iv               Jan 1885     LXIV           329   352               xiv         Dec 1887
+         XXXIX     97 120       v, vi            Jul 1885     LXV            353   368               xv          Jan 1888
+         XLI       121 136                       Oct 1885     LXVI           369   384                           Feb 1888
+         XLVI      137 152                       Apr 1886     LXVII                                  xvi         Apr 1888
+         XLVII     153 168      vii              May 1886     LXIX           385   408               xvii        Aug 1888
+         XLVIII    169 184                       Jun 1886     LXX            409   424               xviii       Oct 1888
+         XLIX      185 208                       Jul 1886     LXXI           425   464               xix         Nov 1888
+         L         209 216      viii, ix         Aug 1886     LXXII          465   476               xx          Dec 1888
+         LI        217 224                       Oct 1886     LXXV                                   xxi         Apr 1889
+         LII       225 240                       Nov 1886     CV             477 524                             Nov 1892
+         LIII      241 264      x                Dec 1886     CVI            525 564                 xxii        Jan 1893
+         LIV       265 272      xi               Jan 1887     CVII           565 572, i xxxiv        xxiii       Mar 1893
+
+       Table 22. Parts containing Coleoptera Vol. IV Part 2.
+
+           Part       Pages          Plates          Date             Part               Pages        Plates        Date
+        LXXV          1 32                         Apr 1889      XCV                                 xii, xiii   Sep 1891
+        LXXVI         33 72          i iii         May 1889      XCVI              305   344                     Oct 1891
+        LXXVII        73 96                        Jul 1889      XCVII             345   360         xiv, xv     Nov 1891
+        LXXVIII       97 104         iv            Aug 1889      XCVIII            361   368         xvi         Dec 1891
+        LXXXI         105 120        v             Dec 1889      XCIX              369   392                     Feb 1892
+        LXXXII        121 160        vi, vii       Jan 1890      C                                   xvii        Mar 1892
+        LXXXVI        161 184                      Jun 1890      CII               393 400           xviii       May 1892
+        LXXXVII       185 216        viii, ix      Aug 1890      CIV               401 448           xix         Sep 1892
+        LXXXVIII      217 248                      Oct 1890      CV                                  xx          Nov 1892
+        LXXXIX                       x             Nov 1890      CVII              449 464           xxi         Mar 1893
+        XC            249 256                      Dec 1890      CVIII             465 494, i x                  Apr 1893
+        XCIV          257 304        xi            Jul 1891
+
+                                Table 23. Parts containing Coleoptera Vol. IV Part 3.
+
+                                          Part           Pages           Plates            Date
+                                  LXXV               1 24                i               Apr 1889
+                                  LXXVI              25 40                               May 1889
+                                  LXXXVIII                               ii              Oct 1880
+                                  LXXXIX             41 56                               Nov 1890
+                                  XC                 57 80               iii             Dec 1890
+                                  XCI                81 88                               Feb 1891
+                                  XCVI               89 136              iv, v           Oct 1891
+                                  XCVII              137 168                             Nov 1891
+                                  XCVIII                                 vi              Dec 1891
+                                  CCIX               169 240             vii ix          May 1911
+                                  CCX                241 312             x xiii          Oct 1911
+                                  CCXI.A             313 354, i vi       xiv xv          Dec 1911
+Christopher H. C. Lyal                                  84                      Zoological Bibliography 2011 1(2)
+
+
+
+Volume 27. Coleoptera Vol. IV. Part 7. Rhynchophora. Curculionidae. Curculioninae (concluded)
+and Calandrinae. Champion, G. C., 1909 1910, pp. i vi + 1 221 pls. i ix. Published in 4 parts, as
+set out in Table 27. Part CCVIII included pp. i vi, which comprised the Title page, Table of
+Contents, Introduction and Errata et Corrigenda.
+
+                         Table 24. Parts containing Coleoptera Vol. IV Part 4.
+
+                              Part             Pages            Plates         Date
+                          CLXXII         1 32                i, ii           May 1902
+                          CLXXIII        33 64               iii, iv         Aug 1902
+                          CLXXIV         65 112              v, vi           Oct 1902
+                          CLXXV          113 144             vii, viii       Dec 1902
+                          CLXXVI         145 176             ix              Feb 1903
+                          CLXXVII        177 208             x, xi           Apr 1903
+                          CLXXVIII       209 224             xii             May 1903
+                          CLXXIX         225 280             xiii, xiv       Aug 1903
+                          CLXXX          281 312             xv, xvi         Nov 1903
+                          CLXXXI         313 336             xvii            Jan 1904
+                          CLXXXIII       337 376             xviii, xix      Jun 1904
+                          CLXXXIV        377 440             xx              Sep 1904
+                          CLXXXV                             xxi             Nov 1904
+                          CLXXXVI        441   488           xxii, xxiii     Jan 1905
+                          CLXXXVII       489   504           xxiv            Mar 1905
+                          CLXXXVIII      505   528           xxv             Jun 1905
+                          CLXXXIX        529   600           xxvi xxix       Oct 1905
+                          CXC            601   688           xxx xxxiii      Jan 1906
+                          CXCI           689   750, i viii   xxxiv, xxxv     Apr 1906
+
+                         Table 25. Parts containing Coleoptera Vol. IV Part 5.
+
+                             Part           Pages               Plates         Date
+                          CXCI          1 16                 i               Apr 1906
+                          CXCII         17 56                ii iv           Aug 1906
+                          CXCIII        57 88                v               Oct 1906
+                          CXCIV         89 136               vi, vii, viii   Dec 1906
+                          CXCV          137 176              ix, x           Feb 1907
+                          CXCVI         177 200              xi              May 1907
+                          CXCVII        201 216              xii             Jul 1907
+                          CXCVIII       217 240              xiii            Nov 1907
+                          CC            241 312              xiv xvi         May 1908
+                          CCI           313 376              xvii xix        Sep 1908
+                          CCII          377 400                              Nov 1908
+                          CCIII         401 472              xx xxii         Feb 1909
+                          CCIV          473 513, i viii      xxiii           Apr 1909
+
+
+
+Volume 28. Coleoptera Vol. V. Longicornia by Bates, H. W. and Bruchides by Sharp, D, 1879
+1886, pp. i xii + 1 526 pls. i xxvi. Published in 20 Parts, as set out in Table 28. Part XLIV
+contained pp. i xii, which comprised the Title page, Introduction, Errata et Corrigenda and
+List of Plates. Bates is given as sole author on the Wrappers for Parts II XL. Authorship for
+the text in Part XLI­XLIV is attributed on the Wrappers to Bates and Sharp, but in Part XLII
+Christopher H. C. Lyal                                 85                     Zoological Bibliography 2011 1(2)
+
+
+
+Bates is responsible for pages 409 436 and Sharp for pages 437 440, and Sharp is solely
+responsible for the text in Parts XLII and XLIII. Part XLIV contains the index and Front
+Matter.
+
+     Table 26. Parts containing Coleoptera Vol. IV Part 6.
+
+         Part       Pages      Plates      Date              Part         Pages       Plates      Date
+      CXXII         1 32       i        May 1895     CXL            185 216                     Jan 1898
+      CXXIII        33 48      ii       Jul 1895     CXLI           217 224                     Apr 1898
+      CXXIV         49 80      iii      Aug 1895     CLXVIII                          vii       Nov 1901
+      CXXVI         81 96               Dec 1895     CLXXXIII       225   248                   Jun 1904
+      CXXVII        97 112     iv       Jan 1896     CLXXXV         249   280         viii      Nov 1904
+      CXXVIII       113 120             Mar 1896     CLXXXVIII      281   298         ix        Jun 1905
+      CXXIX         121 128    v        May 1896     CXCI           299   314         x         Apr 1906
+      CXXX          129 144             Jun 1896     CXCII          315   346         xi, xii   Aug 1906
+      CXXXVI        145 152             Aug 1897     CXCIII         347   362         xiii      Oct 1906
+      CXXXVII       153 168    vi       Sep 1897     CXCIV          363   378         xiv       Dec 1906
+      CXXXVIII      169 176             Nov 1897     CXCV           379   396, i vi             Feb 1907
+      CXXXIX        177 184             Dec 1897
+
+Volume 29. Coleoptera Vol. VI Part 1. Phytophaga (part). Jacoby, H., 1880 1892, pp. i xx + 1 625.
+Published in 38 Parts, as set out in Table 29. Part CI included cancels of pp.
+1,2,19,20,37,38,73,74 to replace those already issued, and i xx, which comprised the Title
+page, Contents, Introduction, List of Plates and Errata et Corrigenda. The Wrappers
+containing Signatures of this volume also included plates i xxxiii. However, the plate
+numbering continued into Vol. VI Part 1 Supplement, and the List of Completed Volumes on
+the Wrappers of Parts following the completion of Vol. VI Part 1 and its Supplement placed
+all the plates in the Supplement. Oddly, the List of Plates was included in the Front Matter of
+Vol. VI. Part 1, not the Supplement. The plates are listed here under the Supplement, below.
+Pages 1, 2, 19, 20, 37, 38, 73, 74 of Vol. VI Part 1 were reissued in April 1892 to replace those
+originally published. Where the original page was dated (i.e. was the first page of a
+signature) the original date is repeated, not the date April 1892. The cancels and cancellands
+were not all identical; differences in the page contents are as follows:
+         p. 1. `Fam. Chrysomelidae Subfam. Sagrinae' changed to `Fam. Sagridae' and references
+    to `subfamily' changed to `family'.
+         p. 2. `Subfam. Criocerinae' changed to `Fam. Crioceridae' and references to `subfamily'
+    changed to `family'.
+         p. 19. `Subfam. Megalopodinae' changed to `Fam. Megalopodidae.' and references to
+    `subfamily' changed to `family'.
+         p. 20. No change.
+         p. 37. `Saxinis punctatissimus' changed to `Saxinis punctatissima'.
+         p. 38. `Group Cryptocephalinae' changed to `Fam. Cryptocephalidae'.
+         p. 73. `Subfam. Chlamydinae' changed to `Fam. Chlamydidae'.
+         p. 74. No change.
+
+Volume 30. Coleoptera Vol. VI Part 1, Supplement. Phytophaga (part). Jacoby, H., 1880 1892
+(the Title Page gives the dates as 1888 1892, but this applies to the text pages not the plates).
+pp. i ii + 1 374, pls. i xliii. Published in 58 Parts, as set out in Table 30. Part CI included the
+unnumbered pp. [i ii], which comprise the Title page and Contents. The Wrappers
+Christopher H. C. Lyal                                     86                             Zoological Bibliography 2011 1(2)
+
+
+
+containing the Signatures of Vol. VI Part 1 included plates i xxxiii. However, the plate
+numbering continued into Vol. VI Part 1 Supplement, and the List of Completed volumes on
+the Wrappers of Parts following the completion of Vol. VI Part 1 and its Supplement placed
+all the plates in the Supplement.
+
+                               Table 27. Parts containing Coleoptera Vol. IV Part 7.
+
+                                     Part          Pages          Plates        Date
+                                 CCV          1 48                i, ii       Oct 1909
+                                 CCVI         49 78               iii         Dec 1909
+                                 CCVII        79 150              iv vi       Apr 1910
+                                 CCVIII       151 221, i vi       vii ix      Oct 1910
+
+     Table 28. Parts containing Coleoptera Vol. V.
+
+        Part     Pages      Plates          Date           Part              Pages            Plates        Date
+       II       1 16       i ii        Nov 1879        XXXV           249    272             xvii         Jan 1885
+       III      17 40      iii iv      Feb 1880        XXXVI          273    312             xviii, xix   Mar 1885
+       IV       41 64      v           Apr 1880        XXXVII         313    328             xx           Apr 1885
+       V        65 88      vi          Jun 1880        XXXVIII        329    352             xxi          May 1885
+       VI       89 128     vii ix      Aug 1880        XXXIX          353    384             xxii         Jul 1885
+       VII      129 152    x xi        Oct 1880        XL             385    408                          Aug 1885
+       IX       153 168    xii         Feb 1881        XLI            409    440             xxiii xxv    Oct 1885
+       X        169 192    xiii        Apr 1881        XLII           441    464             xxvi         Nov 1885
+       XI       193 224    xiv, xv     Jun 1881        XLIII          465    504                          Dec 1885
+       XXXIV    225 248    xvi         Dec 1884        XLIV           505    526, i xii                   Jan 1886
+
+                Table 29. Parts containing Coleoptera Vol. VI Part 1.
+
+                    Part      Pages           Date           Part              Pages              Date
+                 V           1 24           Jun 1880       XL              369 392             Aug 1885
+                 VII         25 48          Oct 1880       XLII            393 408             Nov 1885
+                 VIII        49 72          Dec 1880       XLIV            409 432             Jan 1886
+                 IX          73 88          Feb 1881       XLV             433 440             Feb 1886
+                 XI          89 104         Jun 1881       XLVIII          441 464             Jun 1886
+                 XII         105 120        Aug 1881       XLIX            465 472             Jul 1886
+                 XIII        121 128        Oct 1881       LI              473 480             Oct 1886
+                 XIV         129 144        Dec 1881       LII             481 488             Nov 1886
+                 XV          145 168        Feb 1882       LIII            489 496             Dec 1886
+                 XVII        169 184        Jun 1882       LIV             497 504             Jan 1887
+                 XVIII       185 208        Aug 1882       LIX             505 528             Jun 1887
+                 XIX         209 224        Oct 1882       LX              529 544             Aug 1887
+                 XXI         225 256        Jan 1883       LXII            545 560             Oct 1887
+                 XXII        257 264        Mar 1883       LXIII           561 568             Nov 1887
+                 XXVIII      265 280        Feb 1884       LXIV            569 584             Dec 1887
+                 XXIX        281 304        Apr 1884       LXV             585 600             Jan 1888
+                 XXX         305 320        Jun 1884       LXVI            601 625             Feb 1888
+                 XXXIII      321 336        Oct 1884       CI              1,2,19,20,37,       Apr 1892
+                 XXXV        337 352        Jan 1885                       38,73,74, i xx
+                 XXXVIII     353 368        May 1885
+Christopher H. C. Lyal                               87                       Zoological Bibliography 2011 1(2)
+
+
+
+Volume 31. Coleoptera Vol. VI. Part 2. Phytophaga (part). Baly, J. S., and Champion, G. C.,
+1885 1894, pp. i x + 1 249 pls. i xiii. Baly is the author of the section on Hispidae (pp. 1 124),
+Champion the author of the part on Cassididae (pp. 125 233) and the Appendix, which
+included Hispidae (pp. 234 242). Published in 13 Parts, as set out in Table 31. Part CXVII
+included pp. i x, which comprised the Title page, Contents, Introduction and List of plates.
+
+   Table 30. Parts containing Coleoptera Vol. VI Part 1 Supplement.
+
+       Part     Pages     Plates       Date         Part          Pages               Plates      Date
+     V                   i            Jun 1880   LXVI                           xxxiii         Feb 1888
+     VII                 ii           Oct 1880   LXVIII       1 24              xxxiv, xxxv    Jun 1888
+     VIII                iii          Dec 1880   LXIX         25 40                            Aug 1888
+     IX                  iv           Feb 1881   LXX          41 56                            Oct 1888
+     XI                  v            Jun 1881   LXXI         57 72                            Nov 1888
+     XII                 vi           Aug 1881   LXXII        73 80                            Dec 1888
+     XIV                 vii          Dec 1881   LXXIII       81 88              xxxvi         Feb 1889
+     XV                  viii         Feb 1882   LXXV         89 104                           Apr 1889
+     XVII                ix           Jun 1882   LXXVI        105 120            xxxvii        May 1889
+     XVIII               x            Aug 1882   LXXVII       121 128                          Jul 1889
+     XIX                 xi           Oct 1882   LXXVIII      129 136            xxxviii       Aug 1889
+     XXI                 xii xiv      Jan 1883   LXXIX        137 152                          Oct 1889
+     XXII                xv           Mar 1883   LXXX         153 168            xxxix         Nov 1889
+     XXVIII              xvi          Feb 1884   LXXXIII      169 176                          Feb 1890
+     XXX                 xvii         Jun 1884   LXXXV        177 184                          May 1890
+     XXXIII              xviii, xix   Oct 1884   LXXXVI       185 200                          Jun 1890
+     XXXV                xx           Jan 1885   LXXXVII      201 208                          Aug 1890
+     XXXVIII             xxi          May 1885   LXXXVIII     209 216                          Oct 1890
+     XL                  xxii         Aug 1885   LXXXIX       217 224                          Nov 1890
+     XLIV                xxiii        Jan 1886   XC           225 232            xl            Dec 1890
+     XLV                 xxiv         Feb 1886   XCI          233 256                          Feb 1891
+     XLVIII              xxv          Jun 1886   XCIII        257 264                          May 1891
+     XLIX                xxvi         Jul 1886   XCIV         265 272                          Jul 1891
+     LIII                xxvii        Dec 1886   XCV                            xli            Sep 1891
+     LIV                 xxviii       Jan 1887   XCVII        273 280                          Nov 1891
+     LIX                 xxix         Jun 1887   XCVIII       281 312                          Dec 1891
+     LX                  xxx          Aug 1887   XCIX                           xlii           Feb 1892
+     LXII                xxxi         Oct 1887   C            313 344                          Mar 1892
+     LXIII               xxxii        Nov 1887   CI           345 374, i iv      xliii         Apr 1892
+
+
+
+Volume 32. Coleoptera Vol. VII. Erotylidae, Endomychidae and Coccinellidae. Gorham, H. S.,
+1887 1899, pp. i xii + 1 276, pls. i xiii. Published in 24 Parts, as set out in Table 32. Part CXLVI
+included pp. i xii, which comprised the Title page, Contents, Introduction and List of Plates.
+
+Volume 33. Hymenoptera. Vol. I. Tenthredinidae ­ Chrysididae. Cameron, P., 1883 1900, pp. i xii
++ 1 487, pls. i xx. Published in 32 Parts, as set out in Table 33. Part CXLVI included a
+Temporary Title page and Part CLVII included pp. i xii, which comprised the Title page,
+Contents, Introduction and List of Plates.
+Christopher H. C. Lyal                                     88                             Zoological Bibliography 2011 1(2)
+
+
+
+                               Table 31. Parts containing Coleoptera Vol. VI Part 2.
+
+                                      Part        Pages          Plates              Date
+                                XXXV           1 16              i                Jan 1885
+                                XXXVI          17 24             ii               Mar 1885
+                                XXXVII         25 40                              Apr 1885
+                                XXXVIII        41 56             iii              May 1885
+                                XLII           57 72                              Nov 1885
+                                XLV            73 96                              Feb 1886
+                                XLVI           97 112            iv               Apr 1886
+                                XLVII          113 124                            May 1886
+                                CXIII          125 164                            Nov 1893
+                                CXIV           165 180           v                Jan 1894
+                                CXV                              vi, vii          Feb 1894
+                                CXVI           181 236           viii, ix         Apr 1894
+                                CXVII          237 249, i x      x xiii           Jul 1894
+
+      Table 32. Parts containing Coleoptera Vol. VII.
+
+          Part      Pages       Plates        Date            Part                Pages        Plates      Date
+        LXI        1 32         i            Sep 1887     C                 161   168          ix       Mar 1892
+        LXIV       33 48        ii           Dec 1887     CII               169   176                   May 1892
+        LXVII      49 72        iii          Apr 1888     CXIV              177   192          x        Jan 1894
+        LXVIII     73 80        iv           Jun 1888     CXVII             193   208                   Jul 1894
+        LXIX       81 88                     Aug 1888     CXVIII                               xi       Oct 1894
+        LXXI       89 112       v            Nov 1888     CXXV              209 216                     Oct 1895
+        LXXII                   vi           Dec 1888     CXXXIV            217 232                     Mar 1897
+        LXXIII     113   120                 Feb 1889     CXXXV             233 240            xii      May 1897
+        LXXIV      121   128                 Mar 1889     CXXXVI                               xiii     Aug 1897
+        LXXXIV     129   144    vii          Mar 1890     CXL               241 248                     Jan 1898
+        XCI        145   152    viii         Feb 1891     CXLV              249 256                     Dec 1898
+        XCIII      153   160                 May 1891     CXLVI             257 276, i xii              Feb 1899
+
+      Table 33. Parts containing Hymenoptera Vol. I.
+
+          Part      Pages        Plates         Date           Part               Pages        Plates      Date
+       XXIII       1 24         i, ii         May 1883        XLVIII    289       296                    Jun 1886
+       XXIV        25 40                      Jul 1883        XLIX      297       304                    Jul 1886
+       XXV         41 64        iii, iv       Sep 1883        L         305       312                    Aug 1886
+       XXVII       65 80                      Dec 1883        LI        313       328         xiii       Oct 1886
+       XXVIII      81 96        v             Feb 1884        LIV       329       352         xiv        Jan 1887
+       XXXI        97 120                     Jul 1884        LV        353       376         xv         Feb 1887
+       XXXII       121 128      vi            Aug 1884        LVI       377       392                    Mar 1887
+       XXXIV       129 144      vii           Dec 1884        LVII      393       400         xvi        Apr 1887
+       XXXV        145 152                    Jan 1885        LX        401       416                    Aug 1887
+       XXXVII      153 176      viii          Apr 1885        LXIII     417       432         xvii       Nov 1887
+       XXXVIII     177 184      ix            May 1885        LXV       433       448         xviii      Jan 1888
+       XXXIX       185 200                    Jul 1885        LXVI      449       456         xix        Feb 1888
+       XL          201 216      x             Aug 1885        LXVII     457       466                    Apr 1888
+       XLII        217 240      xi            Nov 1885        LXVIII                          xx         Jun 1888
+       XLV         241 264                    Feb 1886        CXLVI     467 474                          Feb 1899
+       XLVI        265 288      xii           Apr 1886        CLVII     475 487, i xii                   Aug 1900
+Christopher H. C. Lyal                                    89                           Zoological Bibliography 2011 1(2)
+
+
+
+Volume 34. Hymenoptera. Vol. II. Fossores. Cameron, P, 1888 1900, pp. i xi + 1 413, pls. i xiv.
+Published in 30 Parts, as set out in Table 34. Part CXLVI included an unnumbered
+Temporary Title page, and Part CLVII included pp. i xi, which comprised the Title page,
+Contents, Introduction, List of Plates and Errata et Corrigenda.
+
+       Table 34. Parts containing Hymenoptera Vol. II.
+
+           Part       Pages      Plates        Date            Part            Pages        Plates      Date
+        LXX          1 24        i, ii        Oct 1888    CXI            193 216            xi       Sep 1893
+        LXXI         25 32                    Nov 1888    CXII           217 256                     Oct 1893
+        LXXIII       33 48                    Feb 1889    CXIV                              xii      Jan 1894
+        LXXIV        49 64       iii          Mar 1889    CXV            257   304                   Feb 1894
+        LXXV                     iv           Apr 1889    CXVI           305   312          xiii     Apr 1894
+        LXXXIV       65   80     v            Mar 1890    CXIX           313   328                   Nov 1894
+        LXXXV        81   88                  May 1890    CXX            329   344          xiv      Jan 1895
+        LXXXVI       89   96     vi           Jun 1890    CXXI           345   360                   Mar 1895
+        LXXXVIII     97   120                 Oct 1890    CXXIII         361   368                   Jul 1895
+        LXXXIX                   vii          Nov 1890    CXXV           369   376                   Oct 1895
+        XC           121   128                Dec 1890    CXXIX          377   384                   May 1896
+        XCI          129   136   viii         Feb 1891    CXXX           385   392                   Jun 1896
+        XCII         137   152   ix           Apr 1891    CXXXII         393   400                   Dec 1896
+        XCVII        153   176   x            Nov 1891    CXLVI          401   404, [i]              Feb 1899
+        CX           177   192                Aug 1893    CLVII          405   413, i xi             Aug 1900
+
+Volume 35. Hymenoptera. Vol III. Formicidae. Forel, A., 1899 1900, pp. [i] (Title Page) + 1 169,
+pls. i iv. Published in 7 Parts, as set out in Table 35. Part CLV included the unnumbered Title
+page. According to the Wrappers, plate iii was included in both parts CXLVIII and CXLIX;
+only one copy of the plate is in the volume to hand.
+
+                                 Table 35. Parts containing Hymenoptera Vol. III.
+
+                                       Part       Pages         Plates         Date
+                                  CXLVII        1 24            i, ii     Apr 1899
+                                  CXLVIII       25 56           iii       Jun 1899
+                                  CXLVIX        57 80           iii       Aug 1899
+                                  CL            81 104          iv        Sep 1899
+                                  CLI           105 136                   Nov 1899
+                                  CLII          137 160                   Dec 1899
+                                  CLV           161 169, [i]              Apr 1900
+
+Volume 36. Lepidoptera Rhopalocera. Vol. I. (Text) Godman, F. D. & Salvin, O., 1879 1901,
+pp. i xlvi + 1 487. Published in 26 Parts, as set out in table 36. Part XLVI included an
+unnumbered temporary Title page, and part CLXVIII included pp. i xlvi, comprising the
+Title page, Contents, Introduction, List of Plates and Errata et Corrigenda. Plates i xlvii were
+published in Wrappers together with the text of Vol. I, but are shown by the Title Page, the
+Volume Contents on the Wrappers (cf Figure 1), and in the Summary of Contents of Each
+Volume in the Introductory Volume (Godman, 1915), as forming part of Vol. III.
+Christopher H. C. Lyal                               90                         Zoological Bibliography 2011 1(2)
+
+
+
+                   Table 36. Parts containing Lepidoptera Rhopalocera Vol. I.
+
+                     Part     Pages       Date            Part      Pages           Date
+                     I       1 32       Sept 1879    XXI          225 240        Jan 1883
+                     II      33 56      Nov 1879     XXII         241 264        Mar 1883
+                     III     57 72      Feb 1880     XXVI         265 280        Nov 1883
+                     VI      73 88      Aug 1880     XXVII        281 288        Dec 1883
+                     IX      89 96      Feb 1881     XXIX         289 312        Apr 1884
+                     X       97 104     Apr 1881     XXX          313 344        Jun 1884
+                     XI      105 120    Jun 1881     XXXI         345 352        Jul 1884
+                     XII     121 136    Aug 1881     XXXIII       353 360        Oct 1884
+                     XIII    137 152    Oct 1881     XLIII        361 400        Dec 1885
+                     XIV     153 168    Dec 1881     XLIV         401 440        Jan 1886
+                     XVII    169 184    Jun 1882     XLV          441 487        Feb 1886
+                     XVIII   185 208    Aug 1882     XLVI         [i]            Apr 1886
+                     XX      209 224    Dec 1882     CLXVIII      i xlvi         Nov 1901
+
+Volume 37. Lepidoptera Rhopalocera. Vol. II. (Text). Godman, F. D. & Salvin, O., 1887 1901,
+pp. [i ii] + 1 782. Published in 41 Parts, as set out in Table 37. Part CLXVIII included pp. i ii,
+comprising the Title page and Contents. The Wrappers appeared under the authorship of
+Godman & Salvin up to Part CXLVII; Parts CXLVIII CLXVIII appeared under that
+authorship of Godman alone, following Salvin's death in 1878. A footnote on p. 461 (the first
+page of the section in Part CLVI) notes that work up to that point had been undertaken by
+both Godman and Salvin, but the Pamphilinae (commencing on that page) had been
+completed by Godman alone; the implication is that new taxa and other taxonomic acts from
+that point forward should be attributed to Godman alone, but names and other acts in the
+text published in Part CXLVIII, despite only Godman's name appearing on the Wrapper,
+should be attributed to Godman & Salvin. The authorship of new names appearing in the
+Supplement to the work is also generally attributed to Godman alone, even on p. 741, which
+was issued in Part CLXVIII under the Wrapper authorship of Godman & Salvin; its
+continuation from the previous pages supports Godman's sole authorship. Plates xlviii cxii
+were published in Wrappers together with the text of Vol. II, but are shown in the Volume
+Contents on the Wrappers (Fig. 1), and in the Summary of Contents of Each Volume in the
+Introductory Volume (Godman, 1915), as forming part of Vol. III. Plates xcii cxi were
+published in conjunction with text taking the authorship of Godman alone, suggesting that
+any new names on the plates should be attributed to Godman.
+
+Volume 38. Lepidoptera Rhopalocera Vol. III. (Plates), Godman, F. D. & Salvin, O., 1879 1901,
+pp. [i ii], pls. i cxii. Published in 68 Parts, as set out in Table 38. Part CLXVIII included pp. i
+ii, the unnumbered Title page and Contents. Plates i xlvii were published in Wrappers
+together with the text of Vol. I, and Plates xlviii cxii in Wrappers together with the text of
+Vol. II (Fig. 1), but are shown by the Title Pages, the Volume Contents on the Wrappers, and
+in the Summary of Contents of Each Volume in the Introductory Volume (Godman, 1915), as
+forming part of Vol. III. Plates xcii cxi were published in conjunction with text taking the
+authorship of Godman alone, suggesting that any new names on the plates should be
+attributed to Godman.
+Christopher H. C. Lyal                                91                       Zoological Bibliography 2011 1(2)
+
+
+
+              Table 37. Parts containing Lepidoptera Rhopalocera Vol. II.
+
+                   Part       Pages       Date             Part        Pages           Date
+                LVIII        1 32       May 1887     CXXI          385   400         Mar 1895
+                LIX          33 48      Jun 1887     CXXV          401   416         Oct 1895
+                LX           49 64      Aug 1887     CXXVIII       417   424         Mar 1896
+                LXI          65 96      Sep 1887     CXXXI         425   440         Oct 1896
+                LXII         97 104     Oct 1887     CXXXVII       441   448         Sep 1897
+                LXIV         105 112    Dec 1887     CXLVII        449   456         Apr 1899
+                LXXVIII      113 128    Aug 1889     CXLVIII       457   460         Jun 1899
+                LXXIX        129 152    Oct 1889     CLVI          461   484         Jun 1900
+                LXXX         153 184    Nov 1889     CLVII         485   500         Aug 1900
+                LXXXVII      185 208    Aug 1890     CLVIII        501   532         Oct 1900
+                LXXXVIII     209 240    Oct 1890     CLIX          533   556         Nov 1900
+                CVII         241 256    Mar 1893     CLX           557   588         Dec 1900
+                CVIII        257 264    Apr 1893     CLXI          589   596         Jan 1901
+                CIX          265 288    May 1893     CLXII         597   620         Feb 1901
+                CX           289 296    Aug 1893     CLXIII        621   644         Apr 1901
+                CXII         297 312    Oct 1893     CLXIV         645   668         May 1901
+                CXIII        313 328    Nov 1893     CLXV          669   692         Jun 1901
+                CXIV         329 352    Jan 1894     CLXVI         693   700         Sep 1901
+                CXVII        353 360    Jul 1894     CLXVII        701   740         Oct 1901
+                CXVIII       361 376    Oct 1894     CLXVIII       741   782, i ii   Nov 1901
+                CXIX         377 384    Nov 1894
+
+Volume 39. Lepidoptera Heterocera. Vol. I. Druce, H., 1881 1890, pp. i [xxxii] + 1 490. Published
+in 33 Parts, as set out in Table 39. Part CLIV included pp. i xxxii, comprising the Title page,
+Contents, Introduction, List of Plates and Errata et Corrigenda. The Wrapper to Part CLIV is
+missing from the collection, and the page numbers given in Table 39 are inferred from the
+differences between the listing on Wrappers CLIII and CLV. Plates i xli were published with
+the text parts of Vol. I, but as shown by the Title Page and list of volumes on the final
+Wrapper they were planned to form part of a separate Vol. III.
+
+Volume 40. Lepidoptera Heterocera. Vol. II. Druce, H., 1891 1900, pp. [i ii] + 1 622. Published in
+34 Parts, as set out in Table 40. Part CLIV included the unnumbered Title page and Contents
+pages. A footnote on p. 298 reports that p. 297 and the first six lines of p. 298 were published
+in March 1896 and cancelled and replaced in Oct 1896. It has not been possible to compare
+the two issues, but there are no taxonomic acts on the later published version, which is in the
+volume to hand. Plates xlii ci were published with the text parts of Vol. II but as shown by
+the Title Page and list of volumes on the final Wrapper they were planned to form part of a
+separate Vol. III.
+
+Volume 41. Lepidoptera Heterocera. Vol. III. Druce, H., 1891 1900, pp. [i ii] (Title Page and
+Contents), pls. i ci. Published in 64 Parts, as set out in Table 41. Part CLIV included the
+unnumbered Title page and contents pages. Plates i xli were published with the text parts of
+Vol. I, and Plates xlii ci with the text parts of Vol. II but as shown by the Title Page and list of
+volumes on the final Wrapper they were planned to form part of a separate Vol. III, as
+shown here. The appearance of the Title page and Contents in Part CLIV is inferred from the
+previous and succeeding Wrappers, since the Wrapper for this part is not available.
+Christopher H. C. Lyal                                  92                       Zoological Bibliography 2011 1(2)
+
+
+
+           Table 38. Parts containing Lepidoptera Rhopalocera Vol. III.
+
+              Part           Plates           Date           Part             Plates          Date
+            I            i ii               Sept 1879    LXXXVII          lxv               Aug 1890
+            II           iii iv             Nov 1879     LXXXVIII         lxvi, lxvii       Oct 1890
+            III          v vii              Feb 1880     LXXXIX           lxviii, lxix      Nov 1890
+            VI           viii               Aug 1880     XC               lxx               Dec 1890
+            IX           ix                 Feb 1881     XCI              lxxi, lxxii       Feb 1891
+            X            x                  Apr 1881     CVIII            lxxiii, lxxiv     Apr 1893
+            XI           xi                 Jun 1881     CX               lxxv              Aug 1893
+            XII          xii xv             Aug 1881     CXI              lxxxvi            Sep 1893
+            XIII         xvi, xvii          Oct 1881     CXIV             lxxvii, lxxviii   Jan 1894
+            XIV          xviii              Dec 1881     CXV              lxxix, lxxx       Feb 1894
+            XVII         xix, xx            Jun 1882     CXVI             lxxxi             Apr 1894
+            XIX          xxi, xxii          Oct 1882     CXVIII           lxxxii            Oct 1894
+            XX           xxiii              Dec 1882     CXIX             lxxxiii           Nov 1894
+            XXII         xxiv, xxiva, xxv   Mar 1883     CXX              lxxxiv            Jan 1895
+            XXVI         xxvi               Nov 1883     CXXI             lxxxv             Mar 1895
+            XXVII        xxvii              Dec 1883     CXXII            lxxxvi            May 1895
+            XXIX         xxviii xxx         Apr 1884     CXXV             lxxxvii           Oct 1895
+            XXX          xxxi xxxiii        Jun 1884     CXXVIII          lxxxviii          Mar 1896
+            XXXI         xxxiv xxxvii       Jul 1884     CXXXI            lxxxix            Oct 1896
+            XLIII        xxxviii xli        Dec 1885     CXXXVIII         xc                Nov 1897
+            XLIV         xlii xliv          Jan 1886     CXLVIII          xci               Jun 1899
+            XLV          xlv xlvii          Feb 1886     CLVI             xcii              Jun 1900
+            LVIII        xlviii l           May 1887     CLVII            xciii, xciv       Aug 1900
+            LIX          li                 Jun 1887     CLVIII           xcv, xcvi         Oct 1900
+            LX           lii                Aug 1887     CLIX             xcvii, xcviii     Nov 1900
+            LXI          liii               Sep 1887     CLX              xcix, c           Dec 1900
+            LXII         liv                Oct 1887     CLXII            ci, cii           Feb 1901
+            LXIII        lv                 Nov 1887     CLXIII           ciii              Apr 1901
+            LXIV         lvi                Dec 1887     CLXIV            civ, cv           May 1901
+            LXV          lvii               Jan 1888     CLXV             cvi, cvii         Jun 1901
+            LXVI         lviii              Feb 1888     CLXVI            cviii, cix        Sep 1901
+            LXXVIII      lix                Aug 1889     CLXVII           cx, cxi           Oct 1901
+            LXXIX        lx lxii            Oct 1889     CLXVIII          cxii              Nov 1901
+            LXXX         lxiii, lxiv        Nov 1889     CLXVIII          pp. [i ii]        Nov 1901
+
+Volume 42. Lepidoptera Heterocera. Vol. IV. Lord Walsingham, 1909 1914, pp. i xii + 1 482, pls.
+i x. Published in 11 Parts, as set out in Table 42. Part CCXV included pp. i xii, which
+comprised the Title page, Contents, Corrigenda and Introduction.
+
+Volume 43. Diptera. Vol. I. Osten Sacken, Baron R. von, Williston, S. W., Aldrich, J. M.,
+Wheeler, W. M. & Melander, A. L., 1886 1901, pp. i viii + 1 378, pls. i vi. Published in 15
+Parts, as set out in Table 43. Part CLXIX included pp. i viii, which comprised the Title page,
+Contents, Introduction and List of Plates. Different authors were responsible for different
+parts of the volume; Osten Sacken prepared pp. 1 216 and plates i iii (published in Parts
+XLX LVII), and the following Supplement was prepared by Williston (pp. 217 332 and plates
+iv v, published in Parts CLX LLXIX), Aldrich (pp. 333 366 and pls. vi, published in Part
+CLXIX) and Wheeler & Melander (pp. 366 378 published in Part CLXIX).
+Christopher H. C. Lyal                                93                        Zoological Bibliography 2011 1(2)
+
+
+
+                  Table 39. Parts containing Lepidoptera Heterocera Vol. I.
+
+                     Part      Pages        Date           Part      Pages           Date
+                    X         1 16       Apr 1881      LIX          241 248       Jun 1887
+                    XII       17 24      Aug 1881      LX           249 256       Aug 1887
+                    XXVI      25 32      Nov 1883      LXXVI        257 272       May 1889
+                    XXX       33 64      Jun 1884      LXXVII       273 304       Jul 1889
+                    XXXII     65 88      Aug 1884      LXXIX        305 320       Oct 1889
+                    XXXIII    89 112     Oct 1884      LXXX         321 336       Nov 1889
+                    XL        113 128    Aug 1885      LXXXI        337 344       Dec 1889
+                    XLI       129 144    Oct 1885      LXXXII       345 368       Jan 1890
+                    XLII      145 160    Nov 1885      LXXXIII      369 384       Feb 1890
+                    XLVI      161 168    Apr 1886      LXXXIV       385 392       Mar 1890
+                    XLVIII    169 176    Jun 1886      LXXXV        393 416       May 1890
+                    XLIX      177 184    Jul 1886      LXXXVI       417 424       Jun 1890
+                    L         185 192    Aug 1886      XC           425 440       Dec 1890
+                    LI        193 200    Oct 1886      XCII         441 448       Apr 1891
+                    LVI       201 216    Mar 1887      XCIII        449 490       May 1891
+                    LVII      217 224    Apr 1887      CLIV         i xxxii       Mar 1900
+                    LVIII     225 240    May 1887
+
+                  Table 40. Parts containing Lepidoptera Heterocera Vol. II.
+
+                     Part       Pages        Date           Part       Pages         Date
+                   XCIV        18          Jul 1891     CXXXIII       337 360      Feb 1897
+                   XCVII       9 24        Nov 1891     CXXXIV        361 392      Mar 1897
+                   CII         25 48       May 1892     CXXXV         393 408      May 1897
+                   CIII        49 96       Jul 1892     CXXXVII       409 416      Sep 1897
+                   CIV         97 112      Sep 1892     CXXXVIII      417 424      Nov 1897
+                   CV          113 128     Nov 1892     CXXXIX        425 440      Dec 1897
+                   CVIII       129 144     Apr 1893     CXL           441 448      Jan 1898
+                   CIX         145 160     May 1893     CXLI          449 464      Apr 1898
+                   CX          161 184     Aug 1893     CXLII         465 480      Jun 1898
+                   CXXI        185 200     Mar 1895     CXLIII        481 520      Aug 1898
+                   CXXII       201 208     May 1895     CXLV          521 536      Dec 1898
+                   CXXIII      209 232     Jul 1895     CXLVII        537 544      Apr 1899
+                   CXXIV       233 248     Aug 1895     CXLVIX        545 552      Aug 1899
+                   CXXV        249 272     Oct 1895     CL            553 568      Sep 1899
+                   CXXVIII     273 298     Mar 1896     CLII          569 592      Dec 1899
+                   CXXXI       297 320     Oct 1896     CLIII         593 622      Feb 1900
+                   CXXXII      321 336     Dec 1896     CLIV          [i, ii]      Mar 1900
+
+Volume 44. Diptera. Vol. II. van der Wulp, F. M., 1888 1903, pp. i [x] + 1 489, pls. i xiii.
+Published in 29 Parts, as set out in Table 44. Part CLXXVIII included pp. i x, the Title page,
+Contents, Introduction, List of Plates and Corrigenda.
+
+Volume 45. Diptera. Vol. III. Williston, S. W., 1891 1903, pp. i vii + 1 127, pls. i ii. Published in
+four Parts, as set out in Table 45. Part CLXXIX included pp. i vii, which comprised the Title
+page, Contents, Introduction and List of Plates. According to a footnote on p. 89 as published
+in August 1903 the page was first published in May 1892, with the description of Callomyia
+bella Williston sp. n. It was then republished in August 1903, with the description re printed
+Christopher H. C. Lyal                                 94                         Zoological Bibliography 2011 1(2)
+
+
+
+and a list of Syrphidae that had been described since the publication of the previous pages.
+Callomyia bella should be dated 1892, as previously noted by Evenhuis (1997).
+
+            Table 41. Parts containing Lepidoptera Heterocera Vol. III.
+
+               Part          Plates          Date           Part              Plates          Date
+             X           i                Apr 1881      XCVIII            xlii, xliii       Dec 1891
+             XII         ii               Aug 1881      CII               xliv              May 1892
+             XXVI        iii v            Nov 1883      CIII              xlv xlviii        Jul 1892
+             XXX         vi viii          Jun 1884      CIV               xlix              Sep 1892
+             XXXIII      ix xi            Oct 1884      CV                l lii             Nov 1892
+             XL          xii              Aug 1885      CVIII             liii, liv         Apr 1893
+             XLI         xiii             Oct 1885      CX                lv                Aug 1893
+             XLII        xiv              Nov 1885      CXI               lvi, lvii         Sep 1893
+             XLVI        xv               Apr 1886      CXII              lviii             Oct 1893
+             XLVIII      xvi              Jun 1886      CXXII             lix               May 1895
+             L           xvii             Aug 1886      CXXIII            lx                Jul 1895
+             LI          xviii            Oct 1886      CXXIV             lxi, lxii         Aug 1895
+             LII         xix              Nov 1886      CXXV              lxiii             Oct 1895
+             LIII        xx               Dec 1886      CXXVIII           lxiv              Mar 1896
+             LV          xxi              Feb 1887      CXXXI             lxv lxvii         Oct 1896
+             LVI         xxii             Mar 1887      CXXXII            lxviii            Dec 1896
+             LVII        xxiii            Apr 1887      CXXXIII           lxix lxxii        Feb 1897
+             LIX         xxiv             Jun 1887      CXXXIV            lxxiii lxxv       Mar 1897
+             LX          xxv              Aug 1887      CXXXV             lxxvi, lxxvii     May 1897
+             LXXVII      xxvi             Jul 1889      CXXXVI            lxxviii           Aug 1897
+             LXXVIII     xxvii            Aug 1889      CXXXVII           lxxix, lxxx       Sep 1897
+             LXXIX       xxviii, xxix     Oct 1889      CXXXVIII          lxxxi, lxxxii     Nov 1897
+             LXXXI       xxx              Dec 1889      CXXXIX            lxxxiii, lxxxiv   Dec 1897
+             LXXXII      xxxi             Jan 1890      CXL               lxxxv lxxxvii     Jan 1898
+             LXXXIII     xxxii            Feb 1890      CXLI              lxxxviii xci      Apr 1898
+             LXXXV       xxxiii           May 1890      CXLII             xcii              Jun 1898
+             XC          xxxiv            Dec 1890      CXLIII            xciii xcv         Aug 1898
+             XCI         xxxv             Feb 1891      CXLIV             xcvi, xcvii       Oct 1898
+             XCII        xxxvi            Apr 1891      CXLVI             xcviii            Feb 1899
+             XCIII       xxxvii           May 1891      CXLVIII           xcix              Jun 1899
+             XCIV        xxxviii, xxxix   Jul 1891      CL                c, ci             Sep 1899
+             XCV         xl, xli          Sep 1891      CLIV              [i, ii]           Mar 1900
+
+Volume 46. Rhynchota Heteroptera. Vol. I. Distant, W. L., 1880 1893, pp. i xx + 1 462, pls i
+xxxix. Published in 28 Parts, as set out in Table 46. Part CIX included pp. i xx, which
+comprised the Title page, Contents, Introduction, List of Plates and Errata et Corrigenda.
+
+Volume 47. Rhynchota Heteroptera. Vol. II. Champion, G. C., 1897 1901, pp. i xvi+ 1 416, pls i
+xxii. Published in 22 Parts, as set out in Table 47. Part CLXV included pp. i xvi, comprising
+the Title page, Contents, Introduction, Errata et Corrigenda and List of Plates. The Wrapper
+to Part CLIV is missing from the collection, and the page numbers given in Table 47 are
+inferred from the differences between the listing on Wrappers CLIII and CLV and checking
+the volume to hand.
+Christopher H. C. Lyal                              95                     Zoological Bibliography 2011 1(2)
+
+
+
+                         Table 42. Parts containing Lepidoptera Heterocera Vol. IV.
+
+                             Part           Pages         Plates         Date
+                          CCVI          1 24             i            Dec 1909
+                          CCVII         25 40                         Apr 1910
+                          CCVIII        41 48                         Oct 1910
+                          CCIX          49 80            ii           May 1911
+                          CCX           81 112           iii          Oct 1911
+                          CCXI.B        113 168          iv, v        May 1912
+                          CCXII.A       169 224          vi           Feb 1913
+                          CCXII.B       225 280          vii          Apr 1914
+                          CCXIII        281 392          viii, ix     Nov 1914
+                          CCXIV         393 424          x            Jan 1915
+                          CCXV          425 482, i xii                Jun 1915
+
+                         Table 43. Parts containing Diptera Vol. I.
+
+                             Part          Pages         Plates         Date
+                           XLIX       1 24                            Jul 1886
+                           L          25 48                           Aug 1886
+                           LI         49 72              i            Oct 1886
+                           LII        73 104             ii           Nov 1886
+                           LIII       105 128                         Dec 1886
+                           LIV        129 160                         Jan 1887
+                           LV         161 176                         Feb 1887
+                           LVI        177 208            iii          Mar 1887
+                           LVII       209 216                         Apr 1887
+                           CLX        217 248                         Dec 1900
+                           CLXIII     249 264            iv           Apr 1901
+                           CLXIV      265 272                         May 1901
+                           CLXV       273 296                         Jun 1901
+                           CLXVI      297 328            v            Sep 1901
+                           CLXIX      329 378, i viii    vi           Dec 1901
+
+Volume 48. Rhynchota Homoptera. Vol. I. Distant, W. L. and Fowler, W. W., 1881 1905,
+pp. i [x] + 1 147, pls i xiii. Published in 12 Parts, as set out in Table 48. Part CLXXXVII
+included pp. i x, comprising the Title page, Contents, Introduction, List of Plates and Errata
+et Corrigenda. Although both authors are cited as joint authors of the volume, they took
+individual authorship of different parts. Distant was cited as author of pp. 1 43 (Parts XIV
+CLVI) and pp. 140 147 (Part CLXXXVII) and Fowler pp. 44 139 (Parts CLVI CLXXXVII).
+
+Volume 49 (part). Rhynchota Homoptera. Vol. II. Part 1. Fowler, W. W., 1894 1909, pp. i [xii] +
+1 339, pls. i xxi. Published in 31 Parts, as set out in Table 49. Part CCIV included pp. i xii,
+comprising the Title page, Contents, Introduction, List of Plates and Errata et Corrigenda.
+The Wrapper to Part CLIV is missing from the collection, and the plate numbers given in
+Table 49 are inferred from the differences between the listing on Wrappers CLIII and CLV.
+Christopher H. C. Lyal                                            96                             Zoological Bibliography 2011 1(2)
+
+
+
+      Table 44. Parts containing Diptera Vol. II.
+
+           Part       Pages       Plates              Date            Part              Pages              Plates     Date
+       LXVII          1 40        i, ii          Apr 1888        CXXIX              289    304                      May 1896
+       LXXXII         41 56                      Jan 1890        CXXX               305    312                      Jun 1896
+       LXXXIII        57 88                      Feb 1890        CXXXI              313    320                      Oct 1896
+       LXXXIV         89 112                     Mar 1890        CXXXII             321    344          viii        Dec 1896
+       LXXXV          113 144     iii            May 1890        CXXXVII            345    360                      Sep 1897
+       LXXXVI         145 176     iv             Jun 1890        CXXXVIII           361    368          ix          Nov 1897
+       LXXXVII        177 200                    Aug 1890        CXXXIX             369    376                      Dec 1897
+       LXXXIX         201 208                    Nov 1890        CXLIV              377    384                      Oct 1898
+       XCII           209 224                    Apr 1891        CXLVI              385    392          x           Feb 1899
+       XCIII          225 248                    May 1891        CL                 393    408          xi          Sep 1899
+       XCIV           249 264     v              Jul 1891        CLII               409    416                      Dec 1899
+       XCVI                       vi             Oct 1891        CLIII              417    428          xii         Feb 1900
+       CXXVI          265 272                    Dec 1895        CLXXVII            429    436          xiii        Apr 1903
+       CXXVII         273 280     vii            Jan 1896        CLXXVIII           437    489, i x                 May 1903
+       CXXVIII        281 288                    Mar 1896
+
+                                Table 45. Parts containing Diptera Vol. III.
+
+                                        Part             Pages           Plates             Date
+                                  XCVIII              1 56                             Dec 1891
+                                  XCIX                57 72              i             Feb 1892
+                                  CII                 73 89             ii             May 1892
+                                  CLXXIX              89 127, i vii                    Aug 1903
+
+ Table 46. Parts containing Rhynchota Heteroptera Vol. I.
+
+    Part     Pages       Plates                Date            Part                Pages                Plates           Date
+   IV       1 24        i ii              Apr 1880           XXVIII          265   280             xxiv, xxv          Feb 1884
+   V        25 40       iii iv            Jun 1880           XXIX            281   296             xxvi               Apr 1884
+   VII      41 64       v, vi             Oct 1880           XXXIV           297   304             xxvii, xxviii      Dec 1884
+   VIII     65 88       vii, viii         Dec 1880           LXXVIII         305   320             xxix               Aug 1889
+   IX       89 104      ix                Feb 1881           LXXXI           321   328             xxx                Dec 1889
+   X        105 128     x, xi             Apr 1881           LXXXIV          329   336                                Mar 1890
+   XI       129 144     xii, xiii         Jun 1881           LXXXV           337   344             xxxi               May 1890
+   XII      145 168     xiv, xv           Aug 1881           LXXXVII         345   352             xxxii              Aug 1890
+   XV       169 176     xvi               Feb 1882           CV              353   368                                Nov 1892
+   XVI      177 192     xvii              Apr 1882           CVI             369   384             xxxiii             Jan 1893
+   XVII     193 208     xviii             Jun 1882           CVII            385   408             xxxiv, xxxv        Mar 1893
+   XIX      209 224     xix               Oct 1882           CVIII           409   440                                Apr 1893
+   XXI      225 232     xx, xxi           Jan 1883           CIX             441   462, i xx       xxxvi xxxviii      May 1893
+   XXVI     233 264     xxii, xxiii       Nov 1883           CX                                    xxxix              Aug 1893
+
+Volume 49 (part). Rhynchota Homoptera. Vol. II. Part 2. Cockerell, T. D. A., 1899 1909,
+pp. [i] (Title Page) + 1 37. Published in 2 Parts, as set out in Table 50. Part CCIV included the
+unnumbered Title page. The Title Page gives the date of publication as 1899, but pages 35 37
+(published in 1909) only contain the Index; page 34 is blank.
+Christopher H. C. Lyal                                         97                            Zoological Bibliography 2011 1(2)
+
+
+
+   Table 47. Parts containing Rhynchota Heteroptera Vol. II.
+
+      Part          Pages             Plates          Date           Part              Pages              Plates       Date
+    CXXXIX       1 32                i, ii       Dec 1897           CLI         265 288               xvi            Nov 1899
+    CXL          33 48               iii         Jan 1898           CLII        289 304               xvii           Dec 1899
+    CXLI         49 88               iv, v       Apr 1898           CLIII                             xviii          Feb 1900
+    CXLII        89 120              vi, vii     Jun 1898           CLIV        305 312                              Mar 1900
+    CXLIII       121 152             viii        Aug 1898           CLV         313 336                              Apr 1900
+    CXLIV        153 176             ix, x       Oct 1898           CLVI                              xix            Jun 1900
+    CXLV         177 192             xi          Dec 1898           CLIX        337 344                              Nov 1900
+    CXLVI        193 216             xii         Feb 1899           CLXI        345 368               xx, xxi        Jan 1901
+    CXLVII       217 240             xiii        Apr 1899           CLXII       369 384                              Feb 1901
+    CXLVIII      241 256             xiv         Jun 1899           CLXIII                            xxii           Apr 1901
+    CXLVIX       257 264             xv          Aug 1899           CLXV        385 416, i xvi                       Jun 1901
+
+                             Table 48. Parts containing Rhynchota Homoptera Vol. I.
+
+                                     Part              Pages           Plates           Date
+                              XIV                1 16                  i ii          Dec 1881
+                              XXIII              17 24                 iii           May 1883
+                              LX                 25 32                 iv            Aug 1887
+                              LXIII              33 40                 v             Nov 1887
+                              CLVI               41 43                 vi            Jun 1900
+                              CLVI               44 48                               Jun 1900
+                              CLVII              49 56                 vii           Aug 1900
+                              CLVIII             57 76                 viii          Oct 1900
+                              CLXXXIII           77 84                 ix            Jun 1904
+                              CLXXXIV            85 108                x, xi         Sep 1904
+                              CLXXXV             109 124               xii           Nov 1904
+                              CLXXXVII           125 147, i x          xiii          Mar 1905
+
+     Table 49. Parts containing Rhynchota Homoptera Vol. II Part 1.
+
+         Part       Pages     Plates           Date             Part                 Pages         Plates            Date
+       CXVII       1 24       i             Jul 1894         CXXXVII                               xii             Sep 1897
+       CXVIII      25 56      ii            Oct 1894         CXLV              201   216           xiii            Dec 1898
+       CXIX                   iii           Nov 1894         CXLVI             217   224           xiv             Feb 1899
+       CXX         57 72                    Jan 1895         CXLVII            225   232                           Apr 1899
+       CXXI                   iv, v         Mar 1895         CXLVIII           233   240                           Jun 1899
+       CXXII       73 80                    May 1895         CXLVIX            241   248           xv              Aug 1899
+       CXXIII      81 88      vi            Jul 1895         CLI               249   256           xvi             Nov 1899
+       CXXIV       89 112     vii           Aug 1895         CLIII             257   264                           Feb 1900
+       CXXV        113 120                  Oct 1895         CLIV                                  xvii            Mar 1900
+       CXXVI       121 128    viii          Dec 1895         CLVI              265   272           xviii           Jun 1900
+       CXXVII      129 136                  Jan 1896         CLVII             273   280                           Aug 1900
+       CXXVIII     137 144                  Mar 1896         CLVIII            281   292           xix             Oct 1900
+       CXXIX       145 160    ix            May 1896         CLXXVIII          293   300           xx              May 1903
+       CXXX        161 168    x             Jun 1896         CLXXIX            301   316           xxi             Aug 1903
+       CXXXV       169 184    xi            May 1897         CCIV              317   339, i xii                    Apr 1909
+       CXXXVI      185 200                  Aug 1897
+Christopher H. C. Lyal                               98                         Zoological Bibliography 2011 1(2)
+
+
+
+Volume 50. Neuroptera. Ephemeridae by Eaton, A. E. and Odonata by Calvert, P. P., 1892 1908,
+pp. i xxx + 1 420, pls. i x. Published in 19 Parts, as set out in Table 51. Part CCII included pp.
+i xxx, comprising the Title page, Contents, Introduction, Map, and Explanation of Map.
+Eaton took authorship of the contents on pp. 1 16 (Part CI) and Plate 1 (Part CLXVII) covers
+Eaton's taxa, even though appearing with only Calvert's name on the Wrapper. Calvert took
+authorship of pp. 17 420, and the Front Matter and map were published with only Calvert's
+name on the Wrapper.
+
+                                 Table 50. Parts containing Rhynchota
+                                 Homoptera Vol. II Part 2.
+
+                                       Part      Pages                Date
+                                  CLII         1 33              Dec 1899
+                                  CCIV         35 37, [i]        Apr 1909
+
+                          Table 51. Parts containing Neuroptera.
+
+                                Part           Pages        Plates           Date
+                           CI                 1 16          i            Apr 1892
+                           CLXVII             17 48         ii, iii      Oct 1901
+                           CLXIX              49 72         iv           Dec 1901
+                           CLXX               73 96                      Jan 1902
+                           CLXXV              97 128                     Dec 1902
+                           CLXXVI             129 136       v            Feb 1903
+                           CLXXVII            137 144                    Apr 1903
+                           CLXXXVIII          145 196       vi viii      Jun 1905
+                           CLXXXIX            197 212                    Oct 1905
+                           CXCI               213 228                    Apr 1906
+                           CXCII              229 260                    Aug 1906
+                           CXCIII             261 268                    Oct 1906
+                           CXCIV              269 308       ix           Dec 1906
+                           CXCV               309 332                    Feb 1907
+                           CXCVI              333 340                    May 1907
+                           CXCVII             341 380       x            Jul 1907
+                           CXCVIII            381 404                    Nov 1907
+                           CXCIX              405 420                    Feb 1908
+                           CCII               i xxx                      Nov 1908
+
+Volume 51. Orthoptera. Vol. I. de Bormans, A., Pictet, A., de Saussure, H. & Zehntner, L.,
+(authorship given on title page as "Dr Henri de Saussure, assisted by Dr Leo Zehtner and A.
+Pictet. The Forficulidae by Count de Bormans"). 1893 1900, pp. i x +1 458, pls i xxii.
+Published in 23 Parts, as set out in Table 52. Part CLV included pp. i x, comprising the Title
+page, Contents, Introduction and List of Plates. The authorship of the parts is as follows: de
+Bormans pp. 1 12 (Parts CX, CXI), de Saussure & Zehntner pp. 13 197 (Parts CXI CXVII), de
+Saussure pp. 198 284 (Parts CXVII CXXXV), de Saussure & Pictet pp. 285 458 (Parts CXXXV
+CXLVI) and front matter (Part CLV).
+
+Volume 52. Orthoptera. Vol. II. Bruner, L., Morse, A. P. and Shelford, R. 1900 1909, pp. i viii +
+1 412, pls. i viii. Published in 19 Parts, as set out in Table 53. Part CCIII contained pp. i viii,
+comprising the Title page, Contents, Introduction, Errata et Corrigenda and List of Plates.
+Christopher H. C. Lyal                                  99                      Zoological Bibliography 2011 1(2)
+
+
+
+The authorship of the volume was given in detail on the title page as "The Acridiidae by
+Prof. Lawrence Bruner, B.Sc. [The Tettiginae by Albert P. Morse, and The Phasmidae by
+Robert Shelford, M.A., F.L.S., C.M.Z.S.]" In pagination Bruner is responsible for pages 1 2
+(Part CLVI) and 19 342 (Parts CLXIII CCII), Morse pages 3 19 (Parts CLVI CLXII), Shelford
+pages 343 377 (Part CCII) and all authors for the final part (the index etc ­ Part CCIII); the
+authorship of the parts by Bruner and Morse can be inferred only by a footnote on page 1.
+
+     Table 52. Parts containing Orthoptera. Vol. I.
+
+         Part      Pages       Plates       Date         Part      Pages              Plates        Date
+       CX         18           i           Aug 1893    CXXXVI     289   304      xv               Aug 1897
+       CXI        9 40         ii, iii     Sep 1893    CXXXVII    305   320                       Sep 1897
+       CXII       41 64        iv          Oct 1893    CXXXVIII   321   328                       Nov 1897
+       CXIII      65 104       v           Nov 1893    CXXXIX     329   344      xvi              Dec 1897
+       CXIV       105 128      vi          Jan 1894    CXL        345   368      xvii, xviii      Jan 1898
+       CXV        129 160      vii         Feb 1894    CXLII      369   400                       Jun 1898
+       CXVI       161 192      viii, ix    Apr 1894    CXLIII                    xix              Aug 1898
+       CXVII      193 200      x           Jul 1894    CXLIV      401 416                         Oct 1898
+       CXXXII     201 216      xi          Dec 1896    CXLV       417 456        xx xxii          Dec 1898
+       CXXXIII    217 224                  Feb 1897    CXLVI      457, 458                        Feb 1899
+       CXXXIV     225 256      xii, xiii   Mar 1897    CLV        ix                              Apr 1900
+       CXXXV      257 288      xiv         May 1897
+
+     Table 53. Parts containing Orthoptera. Vol. II.
+
+          Part        Pages       Plates      Date        Part          Pages            Plates      Date
+      CLVI           18                     Jun 1900    CXC       177   192                       Jan 1906
+      CLVII          9 16                   Aug 1900    CXCII     193   200                       Aug 1906
+      CLXVIII        17 24                  Nov 1901    CXCIII    201   208                       Oct 1906
+      CLXX           25 32                  Jan 1902    CXCVI     209   240             iii       May 1907
+      CLXXXI         33 72        i         Jan 1904    CXCVII    241   248                       Jul 1907
+      CLXXXII        73 104                 Apr 1904    CXCIX     249   256                       Feb 1908
+      CLXXXVI        105 112                Jan 1905    CC        257   288             iv        May 1908
+      CLXXXVII       113 152                Mar 1905    CCI       289   320                       Sep 1908
+      CLXXXVIII      153 160                Jun 1905    CCII      321   377             v viii    Nov 1908
+      CLXXXIX        161 176      ii        Oct 1905    CCIII     379   412, i viii               Feb 1909
+
+
+ACKNOWLEDGEMENTS
+
+    This paper came into being through gentle pressure and advice from Edward C.
+Dickinson, for which I am very grateful. I am also grateful to Neal Evenhuis, Patrice
+Bouchard, Yves Bousquet and Kraig Adler for their very helpful suggestions, information
+and comments on the manuscript.
+
+REFERENCES
+
+Adler, K., 1987. Editor's Note. In Günther, A. C. L. G, (1885 1902) (reprint 1987): Biologia Centrali
+Americana. Reptilia and Batrachia, I LXVIII, 10 figs., i xx, 1 326, pls. 1 76 (12 in colour). ­ Society for the
+Study of Amphibians and Reptiles, in cooperation with Comité Herpetológico Nacional (México).
+Christopher H. C. Lyal                              100                   Zoological Bibliography 2011 1(2)
+
+
+
+Anonymous, 1918. Prospectus. Biologia Centrali Americana. Catalogue for sale by Bernard Quaritch. pp. 1
+47.
+(http://www.sil.si.edu/DigitalCollections/bca/navigation/bca_00_00_00/bca_00_00_00select.cfm)
+Accessed 20 Dec 2010. The volume comprises a Preface by Bernard Quaritch, an introduction
+`Epitomised from Dr F. Ducane Godman's Introduction' [in the Introductory Volume] and a précis of
+the geographical areas covered from the same source, a summary of the Contents of each volume
+together with their price, and a map. Whilst owing a great deal to the Introductory Volume, it has
+differences. The authorship of the whole may be Quaritch.
+
+Evenhuis, N. L., 1997. Litterature Taxonomica Dipterorum (1756 1930). Vol. I (A K): i vii, 1 426. ­ Backhuys
+Publishers, Leiden.
+
+Godman, F. D., 1915. Biologia Centrali Americana. Zoology, Botany, and Archaeology. Edited by Frederick
+Ducane Godman, D. C. L., F. R. S. and Osbert Salvin, M. A., F. R. S. Introductory Volume: i vii, 1 149;
+pls. i ii, maps i viii. ­ Dulau & Co., London.
+
+Address: Lyal, Christopher H. C., Department of Entomology, Natural History Museum, Cromwell
+Road, London SW7 5BD, U.K., e mail: c.lyal@nhm.ac.uk.
+
